@@ -1,0 +1,932 @@
+2018-01-26 17:53:25,339 - root - INFO 数据获取正确
+2018-01-26 17:54:55,213 - root - DEBUG 数据获取失败，实际数据：超级管理员 超级管理员 17767117022，期望数据;超级管理员 超级管理员 17767117022
+2018-01-26 18:03:10,798 - root - INFO 数据获取正确
+2018-01-26 18:03:10,806 - root - INFO 登录测试用例执行成功
+2018-01-26 18:03:10,815 - root - INFO 登录测试用例执行成功
+2018-01-26 18:03:10,823 - root - INFO 登录测试用例执行成功
+2018-01-26 18:03:10,834 - root - INFO 登录测试用例执行成功
+2018-01-26 18:03:10,839 - root - INFO 登录测试用例执行成功
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              2018-01-29 15:01:42,069 - root - INFO 数据获取正确
+2018-01-29 15:01:42,112 - root - INFO 登录测试用例执行成功
+2018-01-29 15:01:42,121 - root - INFO 登录测试用例执行成功
+2018-01-29 15:01:42,132 - root - INFO 登录测试用例执行成功
+2018-01-29 15:01:42,141 - root - INFO 登录测试用例执行成功
+2018-01-29 15:01:42,147 - root - INFO 登录测试用例执行成功
+2018-01-29 15:02:12,102 - root - INFO 数据获取正确
+2018-01-29 15:02:12,111 - root - INFO 登录测试用例执行成功
+2018-01-29 15:02:12,121 - root - INFO 登录测试用例执行成功
+2018-01-29 15:02:12,127 - root - INFO 登录测试用例执行成功
+2018-01-29 15:02:12,134 - root - INFO 登录测试用例执行成功
+2018-01-29 15:02:12,138 - root - INFO 登录测试用例执行成功
+2018-01-29 15:33:17,312 - root - INFO 数据获取正确
+2018-01-29 15:33:17,322 - root - INFO 登录测试用例执行成功
+2018-01-29 15:33:17,334 - root - INFO 登录测试用例执行成功
+2018-01-29 15:33:17,344 - root - INFO 登录测试用例执行成功
+2018-01-29 15:33:17,352 - root - INFO 登录测试用例执行成功
+2018-01-29 15:33:17,358 - root - INFO 登录测试用例执行成功
+2018-01-29 15:53:20,042 - root - INFO 数据获取正确
+2018-01-29 15:53:20,049 - root - INFO 登录测试用例执行成功
+2018-01-29 15:53:20,058 - root - INFO 登录测试用例执行成功
+2018-01-29 15:53:20,062 - root - INFO 登录测试用例执行成功
+2018-01-29 15:53:20,069 - root - INFO 登录测试用例执行成功
+2018-01-29 15:53:20,073 - root - INFO 登录测试用例执行成功
+2018-01-29 15:54:39,431 - root - INFO 数据获取正确
+2018-01-29 15:54:39,440 - root - INFO 登录测试用例执行成功
+2018-01-29 15:54:39,450 - root - INFO 登录测试用例执行成功
+2018-01-29 15:54:39,460 - root - INFO 登录测试用例执行成功
+2018-01-29 15:54:39,470 - root - INFO 登录测试用例执行成功
+2018-01-29 15:54:39,476 - root - INFO 登录测试用例执行成功
+2018-01-29 15:55:04,200 - root - INFO 数据获取正确
+2018-01-29 15:55:04,211 - root - INFO 登录测试用例执行成功
+2018-01-29 15:55:04,220 - root - INFO 登录测试用例执行成功
+2018-01-29 15:55:04,229 - root - INFO 登录测试用例执行成功
+2018-01-29 15:55:04,236 - root - INFO 登录测试用例执行成功
+2018-01-29 15:55:04,243 - root - INFO 登录测试用例执行成功
+2018-01-29 15:55:51,450 - root - INFO 数据获取正确
+2018-01-29 15:55:51,459 - root - INFO 登录测试用例执行成功
+2018-01-29 15:55:51,467 - root - INFO 登录测试用例执行成功
+2018-01-29 15:55:51,474 - root - INFO 登录测试用例执行成功
+2018-01-29 15:55:51,482 - root - INFO 登录测试用例执行成功
+2018-01-29 15:55:51,489 - root - INFO 登录测试用例执行成功
+2018-01-29 16:00:10,176 - root - INFO 数据获取正确
+2018-01-29 16:00:10,187 - root - INFO 登录测试用例执行成功
+2018-01-29 16:00:10,194 - root - INFO 登录测试用例执行成功
+2018-01-29 16:00:10,201 - root - INFO 登录测试用例执行成功
+2018-01-29 16:00:10,209 - root - INFO 登录测试用例执行成功
+2018-01-29 16:00:10,214 - root - INFO 登录测试用例执行成功
+2018-01-29 16:03:31,769 - root - INFO 数据获取正确
+2018-01-29 16:03:31,779 - root - INFO 登录测试用例执行成功
+2018-01-29 16:03:31,792 - root - INFO 登录测试用例执行成功
+2018-01-29 16:03:31,799 - root - INFO 登录测试用例执行成功
+2018-01-29 16:03:31,808 - root - INFO 登录测试用例执行成功
+2018-01-29 16:03:31,813 - root - INFO 登录测试用例执行成功
+2018-01-29 16:04:24,371 - root - INFO 数据获取正确
+2018-01-29 16:04:24,380 - root - INFO 登录测试用例执行成功
+2018-01-29 16:04:24,387 - root - INFO 登录测试用例执行成功
+2018-01-29 16:04:24,394 - root - INFO 登录测试用例执行成功
+2018-01-29 16:04:24,404 - root - INFO 登录测试用例执行成功
+2018-01-29 16:04:24,408 - root - INFO 登录测试用例执行成功
+2018-01-29 17:17:22,744 - root - INFO 数据获取正确
+2018-01-29 17:17:22,756 - root - INFO 登录测试用例执行成功
+2018-01-29 17:17:22,766 - root - INFO 登录测试用例执行成功
+2018-01-29 17:17:22,776 - root - INFO 登录测试用例执行成功
+2018-01-29 17:17:22,785 - root - INFO 登录测试用例执行成功
+2018-01-29 17:17:22,792 - root - INFO 登录测试用例执行成功
+2018-01-31 10:22:59,915 - root - INFO 数据获取正确
+2018-01-31 10:22:59,924 - root - INFO 登录测试用例执行成功
+2018-01-31 10:22:59,935 - root - INFO 登录测试用例执行成功
+2018-01-31 10:22:59,943 - root - INFO 登录测试用例执行成功
+2018-01-31 10:22:59,950 - root - INFO 登录测试用例执行成功
+2018-01-31 10:22:59,955 - root - INFO 登录测试用例执行成功
+2018-01-31 10:22:59,988 - root - DEBUG false:no token 请求响应 {'msg': '登录失效, 请重新登录', 'code': '555'}
+2018-01-31 10:22:59,997 - root - INFO success: 无效token 无法请求
+2018-02-01 13:50:19,529 - root - INFO 数据获取正确
+2018-02-01 13:50:19,538 - root - INFO 登录测试用例执行成功
+2018-02-01 13:50:19,546 - root - INFO 登录测试用例执行成功
+2018-02-01 13:50:19,552 - root - INFO 登录测试用例执行成功
+2018-02-01 13:50:19,558 - root - INFO 登录测试用例执行成功
+2018-02-01 13:50:19,562 - root - INFO 登录测试用例执行成功
+2018-02-01 13:50:19,571 - root - DEBUG false:no token 请求响应 {'code': '555', 'msg': '登录失效, 请重新登录'}
+2018-02-01 13:50:19,581 - root - INFO success: 无效token 无法请求
+2018-02-01 13:51:41,170 - root - INFO 数据获取正确
+2018-02-01 13:51:41,179 - root - INFO 登录测试用例执行成功
+2018-02-01 13:51:41,191 - root - INFO 登录测试用例执行成功
+2018-02-01 13:51:41,199 - root - INFO 登录测试用例执行成功
+2018-02-01 13:51:41,205 - root - INFO 登录测试用例执行成功
+2018-02-01 13:51:41,218 - root - INFO 登录测试用例执行成功
+2018-02-01 13:51:41,225 - root - DEBUG false:no token 请求响应 {'msg': '登录失效, 请重新登录', 'code': '555'}
+2018-02-01 13:51:41,231 - root - INFO success: 无效token 无法请求
+2018-02-01 13:58:37,838 - root - INFO 数据获取正确
+2018-02-01 13:58:37,847 - root - INFO 登录测试用例执行成功
+2018-02-01 13:58:37,858 - root - INFO 登录测试用例执行成功
+2018-02-01 13:58:37,866 - root - INFO 登录测试用例执行成功
+2018-02-01 13:58:37,878 - root - INFO 登录测试用例执行成功
+2018-02-01 13:58:37,884 - root - INFO 登录测试用例执行成功
+2018-02-01 13:58:37,892 - root - INFO success: 无效token 无法请求
+2018-02-01 13:59:32,454 - root - INFO 数据获取正确
+2018-02-01 13:59:32,464 - root - INFO 登录测试用例执行成功
+2018-02-01 13:59:32,474 - root - INFO 登录测试用例执行成功
+2018-02-01 13:59:32,481 - root - INFO 登录测试用例执行成功
+2018-02-01 13:59:32,489 - root - INFO 登录测试用例执行成功
+2018-02-01 13:59:32,494 - root - INFO 登录测试用例执行成功
+2018-02-01 13:59:32,502 - root - INFO success: 无效token 无法请求
+2018-02-01 14:05:14,311 - root - INFO 数据获取正确
+2018-02-01 14:05:14,321 - root - INFO 登录测试用例执行成功
+2018-02-01 14:05:14,331 - root - INFO 登录测试用例执行成功
+2018-02-01 14:05:14,340 - root - INFO 登录测试用例执行成功
+2018-02-01 14:05:14,348 - root - INFO 登录测试用例执行成功
+2018-02-01 14:05:14,355 - root - INFO 登录测试用例执行成功
+2018-02-01 14:05:14,361 - root - INFO success: 无效token 无法请求
+2018-02-01 14:05:14,554 - root - DEBUG overdueDay：返回值15 数据库值23
+2018-02-01 14:05:14,559 - root - DEBUG updateTime：返回值2017.12.26 18:22:07 数据库值2017.12.26 00:50:52
+2018-02-01 14:10:31,955 - root - INFO 数据获取正确
+2018-02-01 14:10:31,964 - root - INFO 登录测试用例执行成功
+2018-02-01 14:10:31,974 - root - INFO 登录测试用例执行成功
+2018-02-01 14:10:31,986 - root - INFO 登录测试用例执行成功
+2018-02-01 14:10:31,995 - root - INFO 登录测试用例执行成功
+2018-02-01 14:10:32,001 - root - INFO 登录测试用例执行成功
+2018-02-01 14:10:32,008 - root - INFO success: 无效token 无法请求
+2018-02-01 14:10:32,171 - root - DEBUG overdueDay：返回值15 数据库值23
+2018-02-01 14:10:32,172 - root - DEBUG updateTime：返回值2017.12.26 18:22:07 数据库值2017.12.26 00:50:52
+2018-02-01 14:11:14,664 - root - INFO 数据获取正确
+2018-02-01 14:11:14,675 - root - INFO 登录测试用例执行成功
+2018-02-01 14:11:14,684 - root - INFO 登录测试用例执行成功
+2018-02-01 14:11:14,693 - root - INFO 登录测试用例执行成功
+2018-02-01 14:11:14,701 - root - INFO 登录测试用例执行成功
+2018-02-01 14:11:14,708 - root - INFO 登录测试用例执行成功
+2018-02-01 14:11:14,717 - root - INFO success: 无效token 无法请求
+2018-02-01 14:11:14,892 - root - DEBUG updateTime：返回值2017.12.26 18:22:07 数据库值2017.12.26 00:50:52
+2018-02-01 14:11:14,893 - root - DEBUG overdueDay：返回值15 数据库值23
+2018-02-01 14:12:58,836 - root - INFO 数据获取正确
+2018-02-01 14:12:58,844 - root - INFO 登录测试用例执行成功
+2018-02-01 14:12:58,853 - root - INFO 登录测试用例执行成功
+2018-02-01 14:12:58,861 - root - INFO 登录测试用例执行成功
+2018-02-01 14:12:58,870 - root - INFO 登录测试用例执行成功
+2018-02-01 14:12:58,878 - root - INFO 登录测试用例执行成功
+2018-02-01 14:12:58,886 - root - INFO success: 无效token 无法请求
+2018-02-01 14:12:59,078 - root - DEBUG updateTime：返回值2017.12.26 18:22:07 数据库值2017.12.26 00:50:52
+2018-02-01 14:12:59,078 - root - DEBUG overdueDay：返回值15 数据库值23
+2018-02-01 14:35:02,443 - root - INFO 数据获取正确
+2018-02-01 14:35:02,451 - root - INFO 登录测试用例执行成功
+2018-02-01 14:35:02,461 - root - INFO 登录测试用例执行成功
+2018-02-01 14:35:02,471 - root - INFO 登录测试用例执行成功
+2018-02-01 14:35:02,480 - root - INFO 登录测试用例执行成功
+2018-02-01 14:35:02,487 - root - INFO 登录测试用例执行成功
+2018-02-01 14:35:02,495 - root - INFO success: 无效token 无法请求
+2018-02-01 14:35:02,686 - root - DEBUG borrowNojq20171120161553876176案件updateTime：返回值2017.12.26 18:22:07 数据库值2017.12.26 00:50:52
+2018-02-01 14:35:02,686 - root - DEBUG borrowNojq20171120161553876176案件overdueDay：返回值15 数据库值23
+2018-02-01 14:37:14,252 - root - INFO 数据获取正确
+2018-02-01 14:37:14,262 - root - INFO 登录测试用例执行成功
+2018-02-01 14:37:14,272 - root - INFO 登录测试用例执行成功
+2018-02-01 14:37:14,282 - root - INFO 登录测试用例执行成功
+2018-02-01 14:37:14,293 - root - INFO 登录测试用例执行成功
+2018-02-01 14:37:14,302 - root - INFO 登录测试用例执行成功
+2018-02-01 14:37:14,312 - root - INFO success: 无效token 无法请求
+2018-02-01 14:37:14,469 - root - DEBUG borrowNojq20171120161553876176案件updateTime：返回值2017.12.26 18:22:07 数据库值2017.12.26 00:50:52
+2018-02-01 14:37:14,469 - root - DEBUG borrowNojq20171120161553876176案件overdueDay：返回值15 数据库值23
+2018-02-01 14:37:14,515 - root - DEBUG borrowNojq20171122230046918653案件consumerNo：返回值4780731 数据库值None
+2018-02-01 14:37:14,516 - root - DEBUG borrowNojq20171122230046918653案件overdueDay：返回值15 数据库值1
+2018-02-01 14:37:14,577 - root - DEBUG borrowNojq20171122230055918654案件consumerNo：返回值1870330 数据库值None
+2018-02-01 14:37:14,578 - root - DEBUG borrowNojq20171122230055918654案件overdueDay：返回值65 数据库值1
+2018-02-01 14:37:14,623 - root - DEBUG borrowNojq20171122230200918657案件consumerNo：返回值2555139 数据库值None
+2018-02-01 14:37:14,623 - root - DEBUG borrowNojq20171122230200918657案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:43,274 - root - INFO 数据获取正确
+2018-02-01 14:41:43,283 - root - INFO 登录测试用例执行成功
+2018-02-01 14:41:43,292 - root - INFO 登录测试用例执行成功
+2018-02-01 14:41:43,299 - root - INFO 登录测试用例执行成功
+2018-02-01 14:41:43,309 - root - INFO 登录测试用例执行成功
+2018-02-01 14:41:43,315 - root - INFO 登录测试用例执行成功
+2018-02-01 14:41:43,325 - root - INFO success: 无效token 无法请求
+2018-02-01 14:41:43,476 - root - DEBUG borrowNojq20171120161553876176案件updateTime：返回值2017.12.26 18:22:07 数据库值2017.12.26 00:50:52
+2018-02-01 14:41:43,477 - root - DEBUG borrowNojq20171120161553876176案件overdueDay：返回值15 数据库值23
+2018-02-01 14:41:43,517 - root - DEBUG borrowNojq20171122230046918653案件consumerNo：返回值4780731 数据库值None
+2018-02-01 14:41:43,517 - root - DEBUG borrowNojq20171122230046918653案件overdueDay：返回值15 数据库值1
+2018-02-01 14:41:43,558 - root - DEBUG borrowNojq20171122230055918654案件consumerNo：返回值1870330 数据库值None
+2018-02-01 14:41:43,558 - root - DEBUG borrowNojq20171122230055918654案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:43,600 - root - DEBUG borrowNojq20171122230200918657案件consumerNo：返回值2555139 数据库值None
+2018-02-01 14:41:43,600 - root - DEBUG borrowNojq20171122230200918657案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:43,645 - root - DEBUG borrowNojq20171122230208918659案件consumerNo：返回值3423390 数据库值None
+2018-02-01 14:41:43,645 - root - DEBUG borrowNojq20171122230208918659案件caseDate：返回值None 数据库值
+2018-02-01 14:41:43,646 - root - DEBUG borrowNojq20171122230208918659案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:43,690 - root - DEBUG borrowNojq20171122230138918661案件consumerNo：返回值4780950 数据库值None
+2018-02-01 14:41:43,690 - root - DEBUG borrowNojq20171122230138918661案件caseDate：返回值None 数据库值
+2018-02-01 14:41:43,691 - root - DEBUG borrowNojq20171122230138918661案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:43,733 - root - DEBUG borrowNojq20171122230216918664案件consumerNo：返回值3870745 数据库值None
+2018-02-01 14:41:43,734 - root - DEBUG borrowNojq20171122230216918664案件caseDate：返回值None 数据库值
+2018-02-01 14:41:43,734 - root - DEBUG borrowNojq20171122230216918664案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:43,778 - root - DEBUG borrowNojq20171122230355918681案件consumerNo：返回值704919 数据库值None
+2018-02-01 14:41:43,778 - root - DEBUG borrowNojq20171122230355918681案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:43,820 - root - DEBUG borrowNojq20171122230639918698案件consumerNo：返回值749064 数据库值None
+2018-02-01 14:41:43,821 - root - DEBUG borrowNojq20171122230639918698案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:43,863 - root - DEBUG borrowNojq20171122230647918699案件consumerNo：返回值4323594 数据库值None
+2018-02-01 14:41:43,863 - root - DEBUG borrowNojq20171122230647918699案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:43,906 - root - DEBUG borrowNojq20171122230730918703案件consumerNo：返回值2380427 数据库值None
+2018-02-01 14:41:43,906 - root - DEBUG borrowNojq20171122230730918703案件caseDate：返回值None 数据库值
+2018-02-01 14:41:43,907 - root - DEBUG borrowNojq20171122230730918703案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:43,963 - root - DEBUG borrowNojq20171122230906918712案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,010 - root - DEBUG borrowNojq20171122230857918715案件consumerNo：返回值1480780 数据库值None
+2018-02-01 14:41:44,011 - root - DEBUG borrowNojq20171122230857918715案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,011 - root - DEBUG borrowNojq20171122230857918715案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,055 - root - DEBUG borrowNojq20171122230959918723案件consumerNo：返回值4291933 数据库值None
+2018-02-01 14:41:44,055 - root - DEBUG borrowNojq20171122230959918723案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,055 - root - DEBUG borrowNojq20171122230959918723案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,094 - root - DEBUG borrowNojq20171122231021918724案件consumerNo：返回值3535519 数据库值None
+2018-02-01 14:41:44,094 - root - DEBUG borrowNojq20171122231021918724案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,094 - root - DEBUG borrowNojq20171122231021918724案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,136 - root - DEBUG borrowNojq20171122231233918743案件consumerNo：返回值4071730 数据库值None
+2018-02-01 14:41:44,136 - root - DEBUG borrowNojq20171122231233918743案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,137 - root - DEBUG borrowNojq20171122231233918743案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,184 - root - DEBUG borrowNojq20171122231301918744案件consumerNo：返回值4419697 数据库值None
+2018-02-01 14:41:44,184 - root - DEBUG borrowNojq20171122231301918744案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,185 - root - DEBUG borrowNojq20171122231301918744案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,232 - root - DEBUG borrowNojq20171122231355918754案件consumerNo：返回值2698607 数据库值None
+2018-02-01 14:41:44,232 - root - DEBUG borrowNojq20171122231355918754案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,233 - root - DEBUG borrowNojq20171122231355918754案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,275 - root - DEBUG borrowNojq20171122231548918757案件consumerNo：返回值1879106 数据库值None
+2018-02-01 14:41:44,276 - root - DEBUG borrowNojq20171122231548918757案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,276 - root - DEBUG borrowNojq20171122231548918757案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,320 - root - DEBUG borrowNojq20171122231525918758案件consumerNo：返回值2613539 数据库值None
+2018-02-01 14:41:44,320 - root - DEBUG borrowNojq20171122231525918758案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,320 - root - DEBUG borrowNojq20171122231525918758案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,365 - root - DEBUG borrowNojq20171122231625918759案件consumerNo：返回值1427568 数据库值None
+2018-02-01 14:41:44,366 - root - DEBUG borrowNojq20171122231625918759案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,366 - root - DEBUG borrowNojq20171122231625918759案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,410 - root - DEBUG borrowNojq20171122231803918770案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,410 - root - DEBUG borrowNojq20171122231803918770案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,459 - root - DEBUG borrowNojq20171122231848918771案件consumerNo：返回值3771046 数据库值None
+2018-02-01 14:41:44,459 - root - DEBUG borrowNojq20171122231848918771案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,459 - root - DEBUG borrowNojq20171122231848918771案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,505 - root - DEBUG borrowNojq20171122231926918781案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,505 - root - DEBUG borrowNojq20171122231926918781案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,547 - root - DEBUG borrowNojq20171122232042918783案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,548 - root - DEBUG borrowNojq20171122232042918783案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,589 - root - DEBUG borrowNojq20171122232710918821案件consumerNo：返回值3238961 数据库值None
+2018-02-01 14:41:44,589 - root - DEBUG borrowNojq20171122232710918821案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,589 - root - DEBUG borrowNojq20171122232710918821案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,638 - root - DEBUG borrowNojq20171122232714918822案件consumerNo：返回值1969762 数据库值None
+2018-02-01 14:41:44,638 - root - DEBUG borrowNojq20171122232714918822案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,638 - root - DEBUG borrowNojq20171122232714918822案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,684 - root - DEBUG borrowNojq20171122232819918832案件consumerNo：返回值4737177 数据库值None
+2018-02-01 14:41:44,685 - root - DEBUG borrowNojq20171122232819918832案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,685 - root - DEBUG borrowNojq20171122232819918832案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,729 - root - DEBUG borrowNojq20171122232946918849案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,729 - root - DEBUG borrowNojq20171122232946918849案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,772 - root - DEBUG borrowNojq20171122233104918858案件consumerNo：返回值4431141 数据库值None
+2018-02-01 14:41:44,772 - root - DEBUG borrowNojq20171122233104918858案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,772 - root - DEBUG borrowNojq20171122233104918858案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,814 - root - DEBUG borrowNojq20171122233253918867案件consumerNo：返回值1004738 数据库值None
+2018-02-01 14:41:44,814 - root - DEBUG borrowNojq20171122233253918867案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,815 - root - DEBUG borrowNojq20171122233253918867案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,858 - root - DEBUG borrowNojq20171122233353918877案件consumerNo：返回值3561988 数据库值None
+2018-02-01 14:41:44,858 - root - DEBUG borrowNojq20171122233353918877案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,858 - root - DEBUG borrowNojq20171122233353918877案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,903 - root - DEBUG borrowNojq20171122233621918883案件consumerNo：返回值3170024 数据库值None
+2018-02-01 14:41:44,903 - root - DEBUG borrowNojq20171122233621918883案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,903 - root - DEBUG borrowNojq20171122233621918883案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,948 - root - DEBUG borrowNojq20171122233547918884案件consumerNo：返回值1780010 数据库值None
+2018-02-01 14:41:44,948 - root - DEBUG borrowNojq20171122233547918884案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,948 - root - DEBUG borrowNojq20171122233547918884案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:44,991 - root - DEBUG borrowNojq20171122233617918888案件consumerNo：返回值3170789 数据库值None
+2018-02-01 14:41:44,992 - root - DEBUG borrowNojq20171122233617918888案件caseDate：返回值None 数据库值
+2018-02-01 14:41:44,992 - root - DEBUG borrowNojq20171122233617918888案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,035 - root - DEBUG borrowNojq20171122233924918904案件consumerNo：返回值4781355 数据库值None
+2018-02-01 14:41:45,035 - root - DEBUG borrowNojq20171122233924918904案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,035 - root - DEBUG borrowNojq20171122233924918904案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,077 - root - DEBUG borrowNojq20171122234104918917案件consumerNo：返回值3172447 数据库值None
+2018-02-01 14:41:45,077 - root - DEBUG borrowNojq20171122234104918917案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,077 - root - DEBUG borrowNojq20171122234104918917案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,124 - root - DEBUG borrowNojq20171122234400918942案件consumerNo：返回值2414386 数据库值None
+2018-02-01 14:41:45,124 - root - DEBUG borrowNojq20171122234400918942案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,125 - root - DEBUG borrowNojq20171122234400918942案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,189 - root - DEBUG borrowNojq20171122234629918951案件consumerNo：返回值1675756 数据库值None
+2018-02-01 14:41:45,189 - root - DEBUG borrowNojq20171122234629918951案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,189 - root - DEBUG borrowNojq20171122234629918951案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,230 - root - DEBUG borrowNojq20171122234633918953案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,231 - root - DEBUG borrowNojq20171122234633918953案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,272 - root - DEBUG borrowNojq20171122234716918968案件consumerNo：返回值4328360 数据库值None
+2018-02-01 14:41:45,272 - root - DEBUG borrowNojq20171122234716918968案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,272 - root - DEBUG borrowNojq20171122234716918968案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,315 - root - DEBUG borrowNojq20171122235637919012案件consumerNo：返回值4113180 数据库值None
+2018-02-01 14:41:45,315 - root - DEBUG borrowNojq20171122235637919012案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,316 - root - DEBUG borrowNojq20171122235637919012案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,383 - root - DEBUG borrowNojq20171122235814919014案件consumerNo：返回值1280352 数据库值None
+2018-02-01 14:41:45,383 - root - DEBUG borrowNojq20171122235814919014案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,384 - root - DEBUG borrowNojq20171122235814919014案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,508 - root - DEBUG borrowNojq20171122194610916659案件consumerNo：返回值3171435 数据库值None
+2018-02-01 14:41:45,509 - root - DEBUG borrowNojq20171122194610916659案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,509 - root - DEBUG borrowNojq20171122194610916659案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,554 - root - DEBUG borrowNojq20171122194542916660案件consumerNo：返回值2454124 数据库值None
+2018-02-01 14:41:45,555 - root - DEBUG borrowNojq20171122194542916660案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,555 - root - DEBUG borrowNojq20171122194542916660案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,598 - root - DEBUG borrowNojq20171122194650916671案件consumerNo：返回值2524759 数据库值None
+2018-02-01 14:41:45,598 - root - DEBUG borrowNojq20171122194650916671案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,599 - root - DEBUG borrowNojq20171122194650916671案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,645 - root - DEBUG borrowNojq20171122194846916685案件consumerNo：返回值4038165 数据库值None
+2018-02-01 14:41:45,645 - root - DEBUG borrowNojq20171122194846916685案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,645 - root - DEBUG borrowNojq20171122194846916685案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,687 - root - DEBUG borrowNojq20171122194857916688案件consumerNo：返回值2054413 数据库值None
+2018-02-01 14:41:45,688 - root - DEBUG borrowNojq20171122194857916688案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,688 - root - DEBUG borrowNojq20171122194857916688案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,730 - root - DEBUG borrowNojq20171122195003916700案件consumerNo：返回值2504187 数据库值None
+2018-02-01 14:41:45,730 - root - DEBUG borrowNojq20171122195003916700案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,731 - root - DEBUG borrowNojq20171122195003916700案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,776 - root - DEBUG borrowNojq20171122195130916716案件consumerNo：返回值2579025 数据库值None
+2018-02-01 14:41:45,776 - root - DEBUG borrowNojq20171122195130916716案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,776 - root - DEBUG borrowNojq20171122195130916716案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,819 - root - DEBUG borrowNojq20171122195248916727案件consumerNo：返回值2316200 数据库值None
+2018-02-01 14:41:45,820 - root - DEBUG borrowNojq20171122195248916727案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,820 - root - DEBUG borrowNojq20171122195248916727案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,866 - root - DEBUG borrowNojq20171122195412916735案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,866 - root - DEBUG borrowNojq20171122195412916735案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,908 - root - DEBUG borrowNojq20171122195500916743案件consumerNo：返回值3281247 数据库值None
+2018-02-01 14:41:45,908 - root - DEBUG borrowNojq20171122195500916743案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,908 - root - DEBUG borrowNojq20171122195500916743案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:45,949 - root - DEBUG borrowNojq20171122195607916750案件consumerNo：返回值4600223 数据库值None
+2018-02-01 14:41:45,949 - root - DEBUG borrowNojq20171122195607916750案件caseDate：返回值None 数据库值
+2018-02-01 14:41:45,950 - root - DEBUG borrowNojq20171122195607916750案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,003 - root - DEBUG borrowNojq20171122195907916786案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,061 - root - DEBUG borrowNojq20171122195831916788案件consumerNo：返回值275563 数据库值None
+2018-02-01 14:41:46,061 - root - DEBUG borrowNojq20171122195831916788案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,061 - root - DEBUG borrowNojq20171122195831916788案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,130 - root - DEBUG borrowNojq20171122195937916806案件consumerNo：返回值2064577 数据库值None
+2018-02-01 14:41:46,130 - root - DEBUG borrowNojq20171122195937916806案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,130 - root - DEBUG borrowNojq20171122195937916806案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,195 - root - DEBUG borrowNojq20171122200106916824案件consumerNo：返回值3950759 数据库值None
+2018-02-01 14:41:46,195 - root - DEBUG borrowNojq20171122200106916824案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,195 - root - DEBUG borrowNojq20171122200106916824案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,252 - root - DEBUG borrowNojq20171122200218916837案件consumerNo：返回值4459406 数据库值None
+2018-02-01 14:41:46,253 - root - DEBUG borrowNojq20171122200218916837案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,253 - root - DEBUG borrowNojq20171122200218916837案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,300 - root - DEBUG borrowNojq20171122200239916842案件consumerNo：返回值4253586 数据库值None
+2018-02-01 14:41:46,300 - root - DEBUG borrowNojq20171122200239916842案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,300 - root - DEBUG borrowNojq20171122200239916842案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,341 - root - DEBUG borrowNojq20171122200614916862案件consumerNo：返回值2243610 数据库值None
+2018-02-01 14:41:46,341 - root - DEBUG borrowNojq20171122200614916862案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,341 - root - DEBUG borrowNojq20171122200614916862案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,383 - root - DEBUG borrowNojq20171122200606916875案件consumerNo：返回值4449558 数据库值None
+2018-02-01 14:41:46,383 - root - DEBUG borrowNojq20171122200606916875案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,383 - root - DEBUG borrowNojq20171122200606916875案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,448 - root - DEBUG borrowNojq20171122201002916909案件consumerNo：返回值4388095 数据库值None
+2018-02-01 14:41:46,448 - root - DEBUG borrowNojq20171122201002916909案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,448 - root - DEBUG borrowNojq20171122201002916909案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,505 - root - DEBUG borrowNojq20171122201118916942案件consumerNo：返回值1133195 数据库值None
+2018-02-01 14:41:46,505 - root - DEBUG borrowNojq20171122201118916942案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,505 - root - DEBUG borrowNojq20171122201118916942案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,548 - root - DEBUG borrowNojq20171122201327916958案件consumerNo：返回值4665185 数据库值None
+2018-02-01 14:41:46,548 - root - DEBUG borrowNojq20171122201327916958案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,548 - root - DEBUG borrowNojq20171122201327916958案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,594 - root - DEBUG borrowNojq20171122201341916970案件consumerNo：返回值1745662 数据库值None
+2018-02-01 14:41:46,594 - root - DEBUG borrowNojq20171122201341916970案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,594 - root - DEBUG borrowNojq20171122201341916970案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,644 - root - DEBUG borrowNojq20171122201429916971案件consumerNo：返回值3135913 数据库值None
+2018-02-01 14:41:46,644 - root - DEBUG borrowNojq20171122201429916971案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,644 - root - DEBUG borrowNojq20171122201429916971案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,686 - root - DEBUG borrowNojq20171122201432916973案件consumerNo：返回值228912 数据库值None
+2018-02-01 14:41:46,687 - root - DEBUG borrowNojq20171122201432916973案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,687 - root - DEBUG borrowNojq20171122201432916973案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,733 - root - DEBUG borrowNojq20171122201414916980案件consumerNo：返回值1766033 数据库值None
+2018-02-01 14:41:46,734 - root - DEBUG borrowNojq20171122201414916980案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,734 - root - DEBUG borrowNojq20171122201414916980案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,783 - root - DEBUG borrowNojq20171122201517916983案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,784 - root - DEBUG borrowNojq20171122201517916983案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,830 - root - DEBUG borrowNojq20171122201532916984案件consumerNo：返回值4760661 数据库值None
+2018-02-01 14:41:46,831 - root - DEBUG borrowNojq20171122201532916984案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,831 - root - DEBUG borrowNojq20171122201532916984案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,882 - root - DEBUG borrowNojq20171122201657916991案件consumerNo：返回值3847310 数据库值None
+2018-02-01 14:41:46,883 - root - DEBUG borrowNojq20171122201657916991案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,883 - root - DEBUG borrowNojq20171122201657916991案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,938 - root - DEBUG borrowNojq20171122201620916995案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,938 - root - DEBUG borrowNojq20171122201620916995案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:46,995 - root - DEBUG borrowNojq20171122201853917043案件consumerNo：返回值3602543 数据库值None
+2018-02-01 14:41:46,995 - root - DEBUG borrowNojq20171122201853917043案件caseDate：返回值None 数据库值
+2018-02-01 14:41:46,995 - root - DEBUG borrowNojq20171122201853917043案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,042 - root - DEBUG borrowNojq20171122202003917050案件consumerNo：返回值3916781 数据库值None
+2018-02-01 14:41:47,042 - root - DEBUG borrowNojq20171122202003917050案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,042 - root - DEBUG borrowNojq20171122202003917050案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,109 - root - DEBUG borrowNojq20171122202005917051案件consumerNo：返回值1080857 数据库值None
+2018-02-01 14:41:47,109 - root - DEBUG borrowNojq20171122202005917051案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,110 - root - DEBUG borrowNojq20171122202005917051案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,171 - root - DEBUG borrowNojq20171122202044917052案件consumerNo：返回值3367978 数据库值None
+2018-02-01 14:41:47,172 - root - DEBUG borrowNojq20171122202044917052案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,172 - root - DEBUG borrowNojq20171122202044917052案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,230 - root - DEBUG borrowNojq20171122202120917074案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,230 - root - DEBUG borrowNojq20171122202120917074案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,275 - root - DEBUG borrowNojq20171122202141917080案件consumerNo：返回值3545574 数据库值None
+2018-02-01 14:41:47,275 - root - DEBUG borrowNojq20171122202141917080案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,276 - root - DEBUG borrowNojq20171122202141917080案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,318 - root - DEBUG borrowNojq20171122202202917083案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,318 - root - DEBUG borrowNojq20171122202202917083案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,364 - root - DEBUG borrowNojq20171122202449917110案件consumerNo：返回值4774828 数据库值None
+2018-02-01 14:41:47,364 - root - DEBUG borrowNojq20171122202449917110案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,364 - root - DEBUG borrowNojq20171122202449917110案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,408 - root - DEBUG borrowNojq20171122202518917125案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,408 - root - DEBUG borrowNojq20171122202518917125案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,454 - root - DEBUG borrowNojq20171122202628917133案件consumerNo：返回值3658872 数据库值None
+2018-02-01 14:41:47,454 - root - DEBUG borrowNojq20171122202628917133案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,454 - root - DEBUG borrowNojq20171122202628917133案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,499 - root - DEBUG borrowNojq20171122202614917139案件consumerNo：返回值3045384 数据库值None
+2018-02-01 14:41:47,499 - root - DEBUG borrowNojq20171122202614917139案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,500 - root - DEBUG borrowNojq20171122202614917139案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,543 - root - DEBUG borrowNojq20171122202804917148案件consumerNo：返回值2380925 数据库值None
+2018-02-01 14:41:47,543 - root - DEBUG borrowNojq20171122202804917148案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,544 - root - DEBUG borrowNojq20171122202804917148案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,586 - root - DEBUG borrowNojq20171122203012917188案件consumerNo：返回值1277074 数据库值None
+2018-02-01 14:41:47,587 - root - DEBUG borrowNojq20171122203012917188案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,587 - root - DEBUG borrowNojq20171122203012917188案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,631 - root - DEBUG borrowNojq20171122203040917192案件consumerNo：返回值4765077 数据库值None
+2018-02-01 14:41:47,631 - root - DEBUG borrowNojq20171122203040917192案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,632 - root - DEBUG borrowNojq20171122203040917192案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,680 - root - DEBUG borrowNojq20171122203134917193案件consumerNo：返回值1772988 数据库值None
+2018-02-01 14:41:47,680 - root - DEBUG borrowNojq20171122203134917193案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,680 - root - DEBUG borrowNojq20171122203134917193案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,724 - root - DEBUG borrowNojq20171122203320917209案件consumerNo：返回值2406828 数据库值None
+2018-02-01 14:41:47,725 - root - DEBUG borrowNojq20171122203320917209案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,725 - root - DEBUG borrowNojq20171122203320917209案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,769 - root - DEBUG borrowNojq20171122203531917235案件consumerNo：返回值4778630 数据库值None
+2018-02-01 14:41:47,769 - root - DEBUG borrowNojq20171122203531917235案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,770 - root - DEBUG borrowNojq20171122203531917235案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,817 - root - DEBUG borrowNojq20171122203545917238案件consumerNo：返回值2595755 数据库值None
+2018-02-01 14:41:47,817 - root - DEBUG borrowNojq20171122203545917238案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,818 - root - DEBUG borrowNojq20171122203545917238案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,866 - root - DEBUG borrowNojq20171122203545917239案件consumerNo：返回值3326374 数据库值None
+2018-02-01 14:41:47,867 - root - DEBUG borrowNojq20171122203545917239案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,867 - root - DEBUG borrowNojq20171122203545917239案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,923 - root - DEBUG borrowNojq20171122203709917262案件consumerNo：返回值2673690 数据库值None
+2018-02-01 14:41:47,923 - root - DEBUG borrowNojq20171122203709917262案件caseDate：返回值None 数据库值
+2018-02-01 14:41:47,923 - root - DEBUG borrowNojq20171122203709917262案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:47,974 - root - DEBUG borrowNojq20171122203737917267案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:48,030 - root - DEBUG borrowNojq20171122203815917275案件caseDate：返回值None 数据库值
+2018-02-01 14:41:48,030 - root - DEBUG borrowNojq20171122203815917275案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:48,094 - root - DEBUG borrowNojq20171122203936917276案件consumerNo：返回值1485167 数据库值None
+2018-02-01 14:41:48,094 - root - DEBUG borrowNojq20171122203936917276案件caseDate：返回值None 数据库值
+2018-02-01 14:41:48,094 - root - DEBUG borrowNojq20171122203936917276案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:48,146 - root - DEBUG borrowNojq20171122203917917281案件consumerNo：返回值529040 数据库值None
+2018-02-01 14:41:48,146 - root - DEBUG borrowNojq20171122203917917281案件caseDate：返回值None 数据库值
+2018-02-01 14:41:48,146 - root - DEBUG borrowNojq20171122203917917281案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:48,191 - root - DEBUG borrowNojq20171122203952917284案件caseDate：返回值None 数据库值
+2018-02-01 14:41:48,191 - root - DEBUG borrowNojq20171122203952917284案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:48,233 - root - DEBUG borrowNojq20171122204221917312案件consumerNo：返回值3970789 数据库值None
+2018-02-01 14:41:48,233 - root - DEBUG borrowNojq20171122204221917312案件caseDate：返回值None 数据库值
+2018-02-01 14:41:48,233 - root - DEBUG borrowNojq20171122204221917312案件overdueDay：返回值65 数据库值1
+2018-02-01 14:41:48,276 - root - DEBUG borrowNojq20171122204226917313案件consumerNo：返回值2495916 数据库值None
+2018-02-01 14:41:48,276 - root - DEBUG borrowNojq20171122204226917313案件caseDate：返回值None 数据库值
+2018-02-01 14:41:48,277 - root - DEBUG borrowNojq20171122204226917313案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:58,234 - root - INFO 数据获取正确
+2018-02-01 14:46:58,243 - root - INFO 登录测试用例执行成功
+2018-02-01 14:46:58,253 - root - INFO 登录测试用例执行成功
+2018-02-01 14:46:58,261 - root - INFO 登录测试用例执行成功
+2018-02-01 14:46:58,269 - root - INFO 登录测试用例执行成功
+2018-02-01 14:46:58,275 - root - INFO 登录测试用例执行成功
+2018-02-01 14:46:58,282 - root - INFO success: 无效token 无法请求
+2018-02-01 14:46:58,479 - root - DEBUG borrowNojq20171120161553876176案件overdueDay：返回值15 数据库值23
+2018-02-01 14:46:58,480 - root - DEBUG borrowNojq20171120161553876176案件updateTime：返回值2017.12.26 18:22:07 数据库值2017.12.26 00:50:52
+2018-02-01 14:46:58,543 - root - DEBUG borrowNojq20171122230046918653案件overdueDay：返回值15 数据库值1
+2018-02-01 14:46:58,595 - root - DEBUG borrowNojq20171122230055918654案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:58,653 - root - DEBUG borrowNojq20171122230200918657案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:58,700 - root - DEBUG borrowNojq20171122230208918659案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:58,700 - root - DEBUG borrowNojq20171122230208918659案件caseDate：返回值None 数据库值
+2018-02-01 14:46:58,743 - root - DEBUG borrowNojq20171122230138918661案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:58,743 - root - DEBUG borrowNojq20171122230138918661案件caseDate：返回值None 数据库值
+2018-02-01 14:46:58,790 - root - DEBUG borrowNojq20171122230216918664案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:58,790 - root - DEBUG borrowNojq20171122230216918664案件caseDate：返回值None 数据库值
+2018-02-01 14:46:58,836 - root - DEBUG borrowNojq20171122230355918681案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:58,879 - root - DEBUG borrowNojq20171122230639918698案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:58,922 - root - DEBUG borrowNojq20171122230647918699案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:58,966 - root - DEBUG borrowNojq20171122230730918703案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:58,966 - root - DEBUG borrowNojq20171122230730918703案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,009 - root - DEBUG borrowNojq20171122230906918712案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,053 - root - DEBUG borrowNojq20171122230857918715案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,053 - root - DEBUG borrowNojq20171122230857918715案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,097 - root - DEBUG borrowNojq20171122230959918723案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,097 - root - DEBUG borrowNojq20171122230959918723案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,141 - root - DEBUG borrowNojq20171122231021918724案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,141 - root - DEBUG borrowNojq20171122231021918724案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,185 - root - DEBUG borrowNojq20171122231233918743案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,186 - root - DEBUG borrowNojq20171122231233918743案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,232 - root - DEBUG borrowNojq20171122231301918744案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,232 - root - DEBUG borrowNojq20171122231301918744案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,278 - root - DEBUG borrowNojq20171122231355918754案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,278 - root - DEBUG borrowNojq20171122231355918754案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,321 - root - DEBUG borrowNojq20171122231548918757案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,322 - root - DEBUG borrowNojq20171122231548918757案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,369 - root - DEBUG borrowNojq20171122231525918758案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,369 - root - DEBUG borrowNojq20171122231525918758案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,414 - root - DEBUG borrowNojq20171122231625918759案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,414 - root - DEBUG borrowNojq20171122231625918759案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,460 - root - DEBUG borrowNojq20171122231803918770案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,460 - root - DEBUG borrowNojq20171122231803918770案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,501 - root - DEBUG borrowNojq20171122231848918771案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,501 - root - DEBUG borrowNojq20171122231848918771案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,542 - root - DEBUG borrowNojq20171122231926918781案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,542 - root - DEBUG borrowNojq20171122231926918781案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,583 - root - DEBUG borrowNojq20171122232042918783案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,583 - root - DEBUG borrowNojq20171122232042918783案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,626 - root - DEBUG borrowNojq20171122232710918821案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,626 - root - DEBUG borrowNojq20171122232710918821案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,670 - root - DEBUG borrowNojq20171122232714918822案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,671 - root - DEBUG borrowNojq20171122232714918822案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,713 - root - DEBUG borrowNojq20171122232819918832案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,713 - root - DEBUG borrowNojq20171122232819918832案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,756 - root - DEBUG borrowNojq20171122232946918849案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,757 - root - DEBUG borrowNojq20171122232946918849案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,798 - root - DEBUG borrowNojq20171122233104918858案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,798 - root - DEBUG borrowNojq20171122233104918858案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,842 - root - DEBUG borrowNojq20171122233253918867案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,842 - root - DEBUG borrowNojq20171122233253918867案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,889 - root - DEBUG borrowNojq20171122233353918877案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,889 - root - DEBUG borrowNojq20171122233353918877案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,931 - root - DEBUG borrowNojq20171122233621918883案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,931 - root - DEBUG borrowNojq20171122233621918883案件caseDate：返回值None 数据库值
+2018-02-01 14:46:59,974 - root - DEBUG borrowNojq20171122233547918884案件overdueDay：返回值65 数据库值1
+2018-02-01 14:46:59,974 - root - DEBUG borrowNojq20171122233547918884案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,021 - root - DEBUG borrowNojq20171122233617918888案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,021 - root - DEBUG borrowNojq20171122233617918888案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,065 - root - DEBUG borrowNojq20171122233924918904案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,065 - root - DEBUG borrowNojq20171122233924918904案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,112 - root - DEBUG borrowNojq20171122234104918917案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,112 - root - DEBUG borrowNojq20171122234104918917案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,154 - root - DEBUG borrowNojq20171122234400918942案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,154 - root - DEBUG borrowNojq20171122234400918942案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,194 - root - DEBUG borrowNojq20171122234629918951案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,194 - root - DEBUG borrowNojq20171122234629918951案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,240 - root - DEBUG borrowNojq20171122234633918953案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,241 - root - DEBUG borrowNojq20171122234633918953案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,287 - root - DEBUG borrowNojq20171122234716918968案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,287 - root - DEBUG borrowNojq20171122234716918968案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,331 - root - DEBUG borrowNojq20171122235637919012案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,331 - root - DEBUG borrowNojq20171122235637919012案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,376 - root - DEBUG borrowNojq20171122235814919014案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,376 - root - DEBUG borrowNojq20171122235814919014案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,419 - root - DEBUG borrowNojq20171122194610916659案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,419 - root - DEBUG borrowNojq20171122194610916659案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,462 - root - DEBUG borrowNojq20171122194542916660案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,462 - root - DEBUG borrowNojq20171122194542916660案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,509 - root - DEBUG borrowNojq20171122194650916671案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,510 - root - DEBUG borrowNojq20171122194650916671案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,556 - root - DEBUG borrowNojq20171122194846916685案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,557 - root - DEBUG borrowNojq20171122194846916685案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,599 - root - DEBUG borrowNojq20171122194857916688案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,599 - root - DEBUG borrowNojq20171122194857916688案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,645 - root - DEBUG borrowNojq20171122195003916700案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,646 - root - DEBUG borrowNojq20171122195003916700案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,695 - root - DEBUG borrowNojq20171122195130916716案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,695 - root - DEBUG borrowNojq20171122195130916716案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,739 - root - DEBUG borrowNojq20171122195248916727案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,739 - root - DEBUG borrowNojq20171122195248916727案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,783 - root - DEBUG borrowNojq20171122195412916735案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,783 - root - DEBUG borrowNojq20171122195412916735案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,824 - root - DEBUG borrowNojq20171122195500916743案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,824 - root - DEBUG borrowNojq20171122195500916743案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,889 - root - DEBUG borrowNojq20171122195607916750案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:00,889 - root - DEBUG borrowNojq20171122195607916750案件caseDate：返回值None 数据库值
+2018-02-01 14:47:00,955 - root - DEBUG borrowNojq20171122195907916786案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,010 - root - DEBUG borrowNojq20171122195831916788案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,010 - root - DEBUG borrowNojq20171122195831916788案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,054 - root - DEBUG borrowNojq20171122195937916806案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,054 - root - DEBUG borrowNojq20171122195937916806案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,100 - root - DEBUG borrowNojq20171122200106916824案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,100 - root - DEBUG borrowNojq20171122200106916824案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,146 - root - DEBUG borrowNojq20171122200218916837案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,146 - root - DEBUG borrowNojq20171122200218916837案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,196 - root - DEBUG borrowNojq20171122200239916842案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,196 - root - DEBUG borrowNojq20171122200239916842案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,241 - root - DEBUG borrowNojq20171122200614916862案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,242 - root - DEBUG borrowNojq20171122200614916862案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,288 - root - DEBUG borrowNojq20171122200606916875案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,288 - root - DEBUG borrowNojq20171122200606916875案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,349 - root - DEBUG borrowNojq20171122201002916909案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,349 - root - DEBUG borrowNojq20171122201002916909案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,395 - root - DEBUG borrowNojq20171122201118916942案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,395 - root - DEBUG borrowNojq20171122201118916942案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,438 - root - DEBUG borrowNojq20171122201327916958案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,439 - root - DEBUG borrowNojq20171122201327916958案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,481 - root - DEBUG borrowNojq20171122201341916970案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,481 - root - DEBUG borrowNojq20171122201341916970案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,526 - root - DEBUG borrowNojq20171122201429916971案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,526 - root - DEBUG borrowNojq20171122201429916971案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,567 - root - DEBUG borrowNojq20171122201432916973案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,568 - root - DEBUG borrowNojq20171122201432916973案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,611 - root - DEBUG borrowNojq20171122201414916980案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,611 - root - DEBUG borrowNojq20171122201414916980案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,655 - root - DEBUG borrowNojq20171122201517916983案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,655 - root - DEBUG borrowNojq20171122201517916983案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,700 - root - DEBUG borrowNojq20171122201532916984案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,700 - root - DEBUG borrowNojq20171122201532916984案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,743 - root - DEBUG borrowNojq20171122201657916991案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,743 - root - DEBUG borrowNojq20171122201657916991案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,790 - root - DEBUG borrowNojq20171122201620916995案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,790 - root - DEBUG borrowNojq20171122201620916995案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,835 - root - DEBUG borrowNojq20171122201853917043案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,836 - root - DEBUG borrowNojq20171122201853917043案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,879 - root - DEBUG borrowNojq20171122202003917050案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,879 - root - DEBUG borrowNojq20171122202003917050案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,922 - root - DEBUG borrowNojq20171122202005917051案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,922 - root - DEBUG borrowNojq20171122202005917051案件caseDate：返回值None 数据库值
+2018-02-01 14:47:01,964 - root - DEBUG borrowNojq20171122202044917052案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:01,965 - root - DEBUG borrowNojq20171122202044917052案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,033 - root - DEBUG borrowNojq20171122202120917074案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,033 - root - DEBUG borrowNojq20171122202120917074案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,090 - root - DEBUG borrowNojq20171122202141917080案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,090 - root - DEBUG borrowNojq20171122202141917080案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,150 - root - DEBUG borrowNojq20171122202202917083案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,151 - root - DEBUG borrowNojq20171122202202917083案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,195 - root - DEBUG borrowNojq20171122202449917110案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,196 - root - DEBUG borrowNojq20171122202449917110案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,238 - root - DEBUG borrowNojq20171122202518917125案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,239 - root - DEBUG borrowNojq20171122202518917125案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,281 - root - DEBUG borrowNojq20171122202628917133案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,281 - root - DEBUG borrowNojq20171122202628917133案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,323 - root - DEBUG borrowNojq20171122202614917139案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,323 - root - DEBUG borrowNojq20171122202614917139案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,369 - root - DEBUG borrowNojq20171122202804917148案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,370 - root - DEBUG borrowNojq20171122202804917148案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,414 - root - DEBUG borrowNojq20171122203012917188案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,415 - root - DEBUG borrowNojq20171122203012917188案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,456 - root - DEBUG borrowNojq20171122203040917192案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,456 - root - DEBUG borrowNojq20171122203040917192案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,500 - root - DEBUG borrowNojq20171122203134917193案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,501 - root - DEBUG borrowNojq20171122203134917193案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,546 - root - DEBUG borrowNojq20171122203320917209案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,547 - root - DEBUG borrowNojq20171122203320917209案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,595 - root - DEBUG borrowNojq20171122203531917235案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,595 - root - DEBUG borrowNojq20171122203531917235案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,641 - root - DEBUG borrowNojq20171122203545917238案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,641 - root - DEBUG borrowNojq20171122203545917238案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,683 - root - DEBUG borrowNojq20171122203545917239案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,683 - root - DEBUG borrowNojq20171122203545917239案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,728 - root - DEBUG borrowNojq20171122203709917262案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,728 - root - DEBUG borrowNojq20171122203709917262案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,771 - root - DEBUG borrowNojq20171122203737917267案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,816 - root - DEBUG borrowNojq20171122203815917275案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,816 - root - DEBUG borrowNojq20171122203815917275案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,860 - root - DEBUG borrowNojq20171122203936917276案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,861 - root - DEBUG borrowNojq20171122203936917276案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,904 - root - DEBUG borrowNojq20171122203917917281案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,904 - root - DEBUG borrowNojq20171122203917917281案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,946 - root - DEBUG borrowNojq20171122203952917284案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,947 - root - DEBUG borrowNojq20171122203952917284案件caseDate：返回值None 数据库值
+2018-02-01 14:47:02,995 - root - DEBUG borrowNojq20171122204221917312案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:02,995 - root - DEBUG borrowNojq20171122204221917312案件caseDate：返回值None 数据库值
+2018-02-01 14:47:03,042 - root - DEBUG borrowNojq20171122204226917313案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:03,042 - root - DEBUG borrowNojq20171122204226917313案件caseDate：返回值None 数据库值
+2018-02-01 14:47:45,337 - root - INFO 数据获取正确
+2018-02-01 14:47:45,348 - root - INFO 登录测试用例执行成功
+2018-02-01 14:47:45,357 - root - INFO 登录测试用例执行成功
+2018-02-01 14:47:45,366 - root - INFO 登录测试用例执行成功
+2018-02-01 14:47:45,377 - root - INFO 登录测试用例执行成功
+2018-02-01 14:47:45,385 - root - INFO 登录测试用例执行成功
+2018-02-01 14:47:45,397 - root - INFO success: 无效token 无法请求
+2018-02-01 14:47:45,567 - root - DEBUG borrowNo(jq20171120161553876176)案件overdueDay：返回值15 数据库值23
+2018-02-01 14:47:45,567 - root - DEBUG borrowNo(jq20171120161553876176)案件updateTime：返回值2017.12.26 18:22:07 数据库值2017.12.26 00:50:52
+2018-02-01 14:47:45,616 - root - DEBUG borrowNo(jq20171122230046918653)案件overdueDay：返回值15 数据库值1
+2018-02-01 14:47:45,662 - root - DEBUG borrowNo(jq20171122230055918654)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:45,705 - root - DEBUG borrowNo(jq20171122230200918657)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:45,748 - root - DEBUG borrowNo(jq20171122230208918659)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:45,811 - root - DEBUG borrowNo(jq20171122230138918661)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:45,866 - root - DEBUG borrowNo(jq20171122230216918664)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:45,916 - root - DEBUG borrowNo(jq20171122230355918681)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:45,965 - root - DEBUG borrowNo(jq20171122230639918698)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,009 - root - DEBUG borrowNo(jq20171122230647918699)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,056 - root - DEBUG borrowNo(jq20171122230730918703)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,100 - root - DEBUG borrowNo(jq20171122230906918712)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,144 - root - DEBUG borrowNo(jq20171122230857918715)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,188 - root - DEBUG borrowNo(jq20171122230959918723)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,232 - root - DEBUG borrowNo(jq20171122231021918724)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,277 - root - DEBUG borrowNo(jq20171122231233918743)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,323 - root - DEBUG borrowNo(jq20171122231301918744)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,367 - root - DEBUG borrowNo(jq20171122231355918754)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,409 - root - DEBUG borrowNo(jq20171122231548918757)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,451 - root - DEBUG borrowNo(jq20171122231525918758)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,515 - root - DEBUG borrowNo(jq20171122231625918759)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,575 - root - DEBUG borrowNo(jq20171122231803918770)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,626 - root - DEBUG borrowNo(jq20171122231848918771)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,669 - root - DEBUG borrowNo(jq20171122231926918781)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,712 - root - DEBUG borrowNo(jq20171122232042918783)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,755 - root - DEBUG borrowNo(jq20171122232710918821)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,801 - root - DEBUG borrowNo(jq20171122232714918822)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,845 - root - DEBUG borrowNo(jq20171122232819918832)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,888 - root - DEBUG borrowNo(jq20171122232946918849)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:46,931 - root - DEBUG borrowNo(jq20171122233104918858)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,001 - root - DEBUG borrowNo(jq20171122233253918867)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,058 - root - DEBUG borrowNo(jq20171122233353918877)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,103 - root - DEBUG borrowNo(jq20171122233621918883)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,148 - root - DEBUG borrowNo(jq20171122233547918884)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,195 - root - DEBUG borrowNo(jq20171122233617918888)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,238 - root - DEBUG borrowNo(jq20171122233924918904)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,283 - root - DEBUG borrowNo(jq20171122234104918917)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,325 - root - DEBUG borrowNo(jq20171122234400918942)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,367 - root - DEBUG borrowNo(jq20171122234629918951)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,409 - root - DEBUG borrowNo(jq20171122234633918953)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,457 - root - DEBUG borrowNo(jq20171122234716918968)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,505 - root - DEBUG borrowNo(jq20171122235637919012)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,548 - root - DEBUG borrowNo(jq20171122235814919014)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,590 - root - DEBUG borrowNo(jq20171122194610916659)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,654 - root - DEBUG borrowNo(jq20171122194542916660)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,712 - root - DEBUG borrowNo(jq20171122194650916671)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,778 - root - DEBUG borrowNo(jq20171122194846916685)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,832 - root - DEBUG borrowNo(jq20171122194857916688)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,876 - root - DEBUG borrowNo(jq20171122195003916700)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,923 - root - DEBUG borrowNo(jq20171122195130916716)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:47,967 - root - DEBUG borrowNo(jq20171122195248916727)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,011 - root - DEBUG borrowNo(jq20171122195412916735)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,054 - root - DEBUG borrowNo(jq20171122195500916743)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,098 - root - DEBUG borrowNo(jq20171122195607916750)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,146 - root - DEBUG borrowNo(jq20171122195907916786)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,190 - root - DEBUG borrowNo(jq20171122195831916788)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,233 - root - DEBUG borrowNo(jq20171122195937916806)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,275 - root - DEBUG borrowNo(jq20171122200106916824)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,318 - root - DEBUG borrowNo(jq20171122200218916837)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,362 - root - DEBUG borrowNo(jq20171122200239916842)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,405 - root - DEBUG borrowNo(jq20171122200614916862)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,449 - root - DEBUG borrowNo(jq20171122200606916875)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,491 - root - DEBUG borrowNo(jq20171122201002916909)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,534 - root - DEBUG borrowNo(jq20171122201118916942)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,578 - root - DEBUG borrowNo(jq20171122201327916958)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,622 - root - DEBUG borrowNo(jq20171122201341916970)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,666 - root - DEBUG borrowNo(jq20171122201429916971)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,712 - root - DEBUG borrowNo(jq20171122201432916973)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,756 - root - DEBUG borrowNo(jq20171122201414916980)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,806 - root - DEBUG borrowNo(jq20171122201517916983)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,849 - root - DEBUG borrowNo(jq20171122201532916984)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,893 - root - DEBUG borrowNo(jq20171122201657916991)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,940 - root - DEBUG borrowNo(jq20171122201620916995)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:48,983 - root - DEBUG borrowNo(jq20171122201853917043)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,026 - root - DEBUG borrowNo(jq20171122202003917050)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,070 - root - DEBUG borrowNo(jq20171122202005917051)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,115 - root - DEBUG borrowNo(jq20171122202044917052)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,161 - root - DEBUG borrowNo(jq20171122202120917074)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,205 - root - DEBUG borrowNo(jq20171122202141917080)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,247 - root - DEBUG borrowNo(jq20171122202202917083)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,291 - root - DEBUG borrowNo(jq20171122202449917110)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,335 - root - DEBUG borrowNo(jq20171122202518917125)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,380 - root - DEBUG borrowNo(jq20171122202628917133)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,427 - root - DEBUG borrowNo(jq20171122202614917139)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,480 - root - DEBUG borrowNo(jq20171122202804917148)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,525 - root - DEBUG borrowNo(jq20171122203012917188)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,570 - root - DEBUG borrowNo(jq20171122203040917192)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,614 - root - DEBUG borrowNo(jq20171122203134917193)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,658 - root - DEBUG borrowNo(jq20171122203320917209)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,703 - root - DEBUG borrowNo(jq20171122203531917235)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,747 - root - DEBUG borrowNo(jq20171122203545917238)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,790 - root - DEBUG borrowNo(jq20171122203545917239)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,835 - root - DEBUG borrowNo(jq20171122203709917262)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,883 - root - DEBUG borrowNo(jq20171122203737917267)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,931 - root - DEBUG borrowNo(jq20171122203815917275)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:49,975 - root - DEBUG borrowNo(jq20171122203936917276)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:50,020 - root - DEBUG borrowNo(jq20171122203917917281)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:50,064 - root - DEBUG borrowNo(jq20171122203952917284)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:50,107 - root - DEBUG borrowNo(jq20171122204221917312)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:47:50,157 - root - DEBUG borrowNo(jq20171122204226917313)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:51:50,513 - root - INFO 数据获取正确
+2018-02-01 14:51:50,522 - root - INFO 登录测试用例执行成功
+2018-02-01 14:51:50,531 - root - INFO 登录测试用例执行成功
+2018-02-01 14:51:50,538 - root - INFO 登录测试用例执行成功
+2018-02-01 14:51:50,547 - root - INFO 登录测试用例执行成功
+2018-02-01 14:51:50,553 - root - INFO 登录测试用例执行成功
+2018-02-01 14:51:50,561 - root - INFO success: 无效token 无法请求
+2018-02-01 14:51:50,736 - root - DEBUG borrowNo(jq20171120161553876176)案件overdueDay：返回值15 数据库值23
+2018-02-01 14:53:49,058 - root - INFO 数据获取正确
+2018-02-01 14:53:49,067 - root - INFO 登录测试用例执行成功
+2018-02-01 14:53:49,077 - root - INFO 登录测试用例执行成功
+2018-02-01 14:53:49,085 - root - INFO 登录测试用例执行成功
+2018-02-01 14:53:49,094 - root - INFO 登录测试用例执行成功
+2018-02-01 14:53:49,100 - root - INFO 登录测试用例执行成功
+2018-02-01 14:53:49,108 - root - INFO success: 无效token 无法请求
+2018-02-01 14:53:49,279 - root - DEBUG borrowNo(jq20171120161553876176)案件updateTime：返回值2017.12.26 18:22:07 数据库值2017.12.26 00:50:52
+2018-02-01 14:53:49,279 - root - DEBUG borrowNo(jq20171120161553876176)案件overdueDay：返回值15 数据库值23
+2018-02-01 14:53:49,322 - root - DEBUG borrowNo(jq20171122230046918653)案件overdueDay：返回值15 数据库值1
+2018-02-01 14:53:49,364 - root - DEBUG borrowNo(jq20171122230055918654)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,405 - root - DEBUG borrowNo(jq20171122230200918657)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,447 - root - DEBUG borrowNo(jq20171122230208918659)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,496 - root - DEBUG borrowNo(jq20171122230138918661)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,538 - root - DEBUG borrowNo(jq20171122230216918664)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,597 - root - DEBUG borrowNo(jq20171122230355918681)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,646 - root - DEBUG borrowNo(jq20171122230639918698)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,692 - root - DEBUG borrowNo(jq20171122230647918699)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,740 - root - DEBUG borrowNo(jq20171122230730918703)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,785 - root - DEBUG borrowNo(jq20171122230906918712)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,827 - root - DEBUG borrowNo(jq20171122230857918715)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,870 - root - DEBUG borrowNo(jq20171122230959918723)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,911 - root - DEBUG borrowNo(jq20171122231021918724)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,952 - root - DEBUG borrowNo(jq20171122231233918743)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:49,994 - root - DEBUG borrowNo(jq20171122231301918744)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,054 - root - DEBUG borrowNo(jq20171122231355918754)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,104 - root - DEBUG borrowNo(jq20171122231548918757)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,145 - root - DEBUG borrowNo(jq20171122231525918758)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,188 - root - DEBUG borrowNo(jq20171122231625918759)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,229 - root - DEBUG borrowNo(jq20171122231803918770)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,271 - root - DEBUG borrowNo(jq20171122231848918771)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,312 - root - DEBUG borrowNo(jq20171122231926918781)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,353 - root - DEBUG borrowNo(jq20171122232042918783)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,394 - root - DEBUG borrowNo(jq20171122232710918821)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,446 - root - DEBUG borrowNo(jq20171122232714918822)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,490 - root - DEBUG borrowNo(jq20171122232819918832)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,531 - root - DEBUG borrowNo(jq20171122232946918849)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,574 - root - DEBUG borrowNo(jq20171122233104918858)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,618 - root - DEBUG borrowNo(jq20171122233253918867)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,660 - root - DEBUG borrowNo(jq20171122233353918877)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,702 - root - DEBUG borrowNo(jq20171122233621918883)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,743 - root - DEBUG borrowNo(jq20171122233547918884)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,788 - root - DEBUG borrowNo(jq20171122233617918888)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,832 - root - DEBUG borrowNo(jq20171122233924918904)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,884 - root - DEBUG borrowNo(jq20171122234104918917)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,926 - root - DEBUG borrowNo(jq20171122234400918942)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:50,989 - root - DEBUG borrowNo(jq20171122234629918951)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,035 - root - DEBUG borrowNo(jq20171122234633918953)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,084 - root - DEBUG borrowNo(jq20171122234716918968)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,146 - root - DEBUG borrowNo(jq20171122235637919012)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,201 - root - DEBUG borrowNo(jq20171122235814919014)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,248 - root - DEBUG borrowNo(jq20171122194610916659)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,295 - root - DEBUG borrowNo(jq20171122194542916660)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,347 - root - DEBUG borrowNo(jq20171122194650916671)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,391 - root - DEBUG borrowNo(jq20171122194846916685)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,438 - root - DEBUG borrowNo(jq20171122194857916688)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,483 - root - DEBUG borrowNo(jq20171122195003916700)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,526 - root - DEBUG borrowNo(jq20171122195130916716)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,575 - root - DEBUG borrowNo(jq20171122195248916727)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,623 - root - DEBUG borrowNo(jq20171122195412916735)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,666 - root - DEBUG borrowNo(jq20171122195500916743)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,714 - root - DEBUG borrowNo(jq20171122195607916750)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,760 - root - DEBUG borrowNo(jq20171122195907916786)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,804 - root - DEBUG borrowNo(jq20171122195831916788)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,847 - root - DEBUG borrowNo(jq20171122195937916806)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,890 - root - DEBUG borrowNo(jq20171122200106916824)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,932 - root - DEBUG borrowNo(jq20171122200218916837)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:51,978 - root - DEBUG borrowNo(jq20171122200239916842)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,023 - root - DEBUG borrowNo(jq20171122200614916862)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,067 - root - DEBUG borrowNo(jq20171122200606916875)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,111 - root - DEBUG borrowNo(jq20171122201002916909)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,153 - root - DEBUG borrowNo(jq20171122201118916942)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,196 - root - DEBUG borrowNo(jq20171122201327916958)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,241 - root - DEBUG borrowNo(jq20171122201341916970)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,287 - root - DEBUG borrowNo(jq20171122201429916971)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,331 - root - DEBUG borrowNo(jq20171122201432916973)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,377 - root - DEBUG borrowNo(jq20171122201414916980)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,421 - root - DEBUG borrowNo(jq20171122201517916983)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,465 - root - DEBUG borrowNo(jq20171122201532916984)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,508 - root - DEBUG borrowNo(jq20171122201657916991)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,555 - root - DEBUG borrowNo(jq20171122201620916995)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,601 - root - DEBUG borrowNo(jq20171122201853917043)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,646 - root - DEBUG borrowNo(jq20171122202003917050)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,691 - root - DEBUG borrowNo(jq20171122202005917051)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,736 - root - DEBUG borrowNo(jq20171122202044917052)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,781 - root - DEBUG borrowNo(jq20171122202120917074)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,831 - root - DEBUG borrowNo(jq20171122202141917080)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,877 - root - DEBUG borrowNo(jq20171122202202917083)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,920 - root - DEBUG borrowNo(jq20171122202449917110)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:52,966 - root - DEBUG borrowNo(jq20171122202518917125)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,010 - root - DEBUG borrowNo(jq20171122202628917133)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,053 - root - DEBUG borrowNo(jq20171122202614917139)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,096 - root - DEBUG borrowNo(jq20171122202804917148)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,155 - root - DEBUG borrowNo(jq20171122203012917188)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,213 - root - DEBUG borrowNo(jq20171122203040917192)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,258 - root - DEBUG borrowNo(jq20171122203134917193)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,307 - root - DEBUG borrowNo(jq20171122203320917209)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,356 - root - DEBUG borrowNo(jq20171122203531917235)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,401 - root - DEBUG borrowNo(jq20171122203545917238)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,444 - root - DEBUG borrowNo(jq20171122203545917239)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,486 - root - DEBUG borrowNo(jq20171122203709917262)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,529 - root - DEBUG borrowNo(jq20171122203737917267)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,574 - root - DEBUG borrowNo(jq20171122203815917275)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,619 - root - DEBUG borrowNo(jq20171122203936917276)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,662 - root - DEBUG borrowNo(jq20171122203917917281)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,705 - root - DEBUG borrowNo(jq20171122203952917284)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,767 - root - DEBUG borrowNo(jq20171122204221917312)案件overdueDay：返回值65 数据库值1
+2018-02-01 14:53:53,834 - root - DEBUG borrowNo(jq20171122204226917313)案件overdueDay：返回值65 数据库值1
+2018-02-06 15:29:30,472 - root - INFO 数据获取正确
+2018-02-06 15:29:30,479 - root - INFO 登录测试用例执行成功
+2018-02-06 15:29:30,490 - root - INFO 登录测试用例执行成功
+2018-02-06 15:29:30,498 - root - INFO 登录测试用例执行成功
+2018-02-06 15:29:30,505 - root - INFO 登录测试用例执行成功
+2018-02-06 15:29:30,510 - root - INFO 登录测试用例执行成功
+2018-02-06 15:29:30,641 - root - INFO success: 无效token 无法请求
+2018-02-06 15:29:31,115 - root - DEBUG borrowNo(jq20171120161553876176)案件updateTime：返回值2017.12.26 18:22:07 数据库值2017.12.26 00:50:52
+2018-02-06 15:29:31,116 - root - DEBUG borrowNo(jq20171120161553876176)案件overdueDay：返回值20 数据库值23
+2018-02-06 15:29:31,160 - root - DEBUG borrowNo(jq20171122230046918653)案件overdueDay：返回值20 数据库值1
+2018-02-06 15:29:31,204 - root - DEBUG borrowNo(jq20171122230055918654)案件overdueDay：返回值70 数据库值1
+2018-02-06 15:29:31,250 - root - DEBUG borrowNo(jq20171122230200918657)案件overdueDay：返回值70 数据库值1
+2018-02-06 15:29:31,294 - root - DEBUG borrowNo(jq20171122230208918659)案件overdueDay：返回值70 数据库值1
+2018-02-06 15:29:31,339 - root - DEBUG borrowNo(jq20171122230138918661)案件overdueDay：返回值70 数据库值1
+2018-02-06 15:29:31,382 - root - DEBUG borrowNo(jq20171122230216918664)案件overdueDay：返回值70 数据库值1
+2018-02-06 15:29:31,426 - root - DEBUG borrowNo(jq20171122230355918681)案件overdueDay：返回值70 数据库值1
+2018-02-06 15:29:31,465 - root - DEBUG borrowNo(jq20171122230639918698)案件overdueDay：返回值70 数据库值1
+2018-02-06 15:29:31,505 - root - DEBUG borrowNo(jq20171122230647918699)案件overdueDay：返回值70 数据库值1
+2018-02-06 15:29:31,548 - root - DEBUG borrowNo(jq20171122230730918703)案件overdueDay：返回值70 数据库值1
+2018-02-06 15:29:31,592 - root - DEBUG borrowNo(jq20171122230906918712)案件overdueDay：返回值70 数据库值1
+2018-02-06 15:29:31,658 - root - DEBUG borrowNo(jq20171122230857918715)案件overdueDay：返回值70 数据库值1
+2018-02-06 15:29:31,699 - root - DEBUG borrowNo(jq20171122230959918723)案件overdueDay：返回值70 数据库值1
+2018-02-06 15:29:31,746 - root - DEBUG borrowNo(jq20171122231021918724)案件overdueDay：返回值70 数据库值1
+2018-02-07 14:33:59,035 - root - DEBUG 登录测试用例执行失败：userName=admin,password=123456，respond={'timespan': 'JsY5uADuJglGWL5zaaCtNw==', 'code': 200, 'exp': None, 'data': {'user': {'password': '72dcf44eb4655e3341ee1937b4cecd5704046528', 'token': 'iQLCzaVkuoZ1/L/+r7zHX4z/KJ/ikXFI97F9xd2zzhSwsTm9i1GbD3Lu7GUqgYrx', 'createId': 1, 'salt': '', 'createTime': '2018-01-26 14:52:17', 'status': 0, 'updateId': 1, 'userName': 'admin', 'employeeId': 0, 'companyType': 0, 'isDelete': 0, 'updateTime': '2018-01-26 14:52:17', 'id': 1}, 'token': 'iQLCzaVkuoZ1/L/+r7zHX4z/KJ/ikXFI97F9xd2zzhSwsTm9i1GbD3Lu7GUqgYrx', 'role': {'status': 0, 'updateId': None, 'ruleName': 'test', 'roleType': 5, 'createTime': None, 'createId': None, 'udpateTime': None, 'remark': 'sad', 'id': 1}}, 'msg': None}
+2018-02-07 14:33:59,112 - root - DEBUG 登录测试用例执行失败：userName=yxg,password=123456，respond={'timespan': 'uaINcHRgE/Ft5hvU6YZ6hA==', 'code': 200, 'exp': None, 'data': {'user': {'password': '72dcf44eb4655e3341ee1937b4cecd5704046528', 'token': 'MgsoXAZfRsYxK6/40WDQNOOLhFesid1jtd6iFlyP6KuwsTm9i1GbD3Lu7GUqgYrx', 'createId': 3, 'salt': '', 'createTime': '2018-01-31 15:44:43', 'status': 0, 'updateId': 3, 'userName': 'yxg', 'employeeId': 1, 'companyType': 2, 'isDelete': 0, 'updateTime': '2018-02-07 11:01:15', 'id': 6}, 'token': 'MgsoXAZfRsYxK6/40WDQNOOLhFesid1jtd6iFlyP6KuwsTm9i1GbD3Lu7GUqgYrx', 'role': {'status': 0, 'updateId': None, 'ruleName': 'yxg', 'roleType': 0, 'createTime': None, 'createId': None, 'udpateTime': None, 'remark': None, 'id': 9}}, 'msg': None}
+2018-02-07 14:33:59,297 - root - DEBUG 登录测试用例执行失败：userName=admin,password=123，respond={'timespan': 'q9O72Ml04NTKlXmeGM7g8g==', 'code': 1003, 'exp': {'stackTrace': [{'fileName': 'ArcSystemUserServiceImpl.java', 'lineNumber': 54, 'className': 'com.ald.collection.biz.service.impl.ArcSystemUserServiceImpl', 'methodName': 'login', 'nativeMethod': False}, {'fileName': 'ArcSystemUserController.java', 'lineNumber': 60, 'className': 'com.ald.collection.api.controller.ArcSystemUserController', 'methodName': 'login', 'nativeMethod': False}, {'fileName': 'NativeMethodAccessorImpl.java', 'lineNumber': -2, 'className': 'sun.reflect.NativeMethodAccessorImpl', 'methodName': 'invoke0', 'nativeMethod': True}, {'fileName': 'NativeMethodAccessorImpl.java', 'lineNumber': 62, 'className': 'sun.reflect.NativeMethodAccessorImpl', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'DelegatingMethodAccessorImpl.java', 'lineNumber': 43, 'className': 'sun.reflect.DelegatingMethodAccessorImpl', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'Method.java', 'lineNumber': 498, 'className': 'java.lang.reflect.Method', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'InvocableHandlerMethod.java', 'lineNumber': 205, 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'methodName': 'doInvoke', 'nativeMethod': False}, {'fileName': 'InvocableHandlerMethod.java', 'lineNumber': 133, 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'methodName': 'invokeForRequest', 'nativeMethod': False}, {'fileName': 'ServletInvocableHandlerMethod.java', 'lineNumber': 97, 'className': 'org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod', 'methodName': 'invokeAndHandle', 'nativeMethod': False}, {'fileName': 'RequestMappingHandlerAdapter.java', 'lineNumber': 827, 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'methodName': 'invokeHandlerMethod', 'nativeMethod': False}, {'fileName': 'RequestMappingHandlerAdapter.java', 'lineNumber': 738, 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'methodName': 'handleInternal', 'nativeMethod': False}, {'fileName': 'AbstractHandlerMethodAdapter.java', 'lineNumber': 85, 'className': 'org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter', 'methodName': 'handle', 'nativeMethod': False}, {'fileName': 'DispatcherServlet.java', 'lineNumber': 967, 'className': 'org.springframework.web.servlet.DispatcherServlet', 'methodName': 'doDispatch', 'nativeMethod': False}, {'fileName': 'DispatcherServlet.java', 'lineNumber': 901, 'className': 'org.springframework.web.servlet.DispatcherServlet', 'methodName': 'doService', 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'lineNumber': 970, 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'processRequest', 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'lineNumber': 872, 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'doPost', 'nativeMethod': False}, {'fileName': 'HttpServlet.java', 'lineNumber': 661, 'className': 'javax.servlet.http.HttpServlet', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'lineNumber': 846, 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'HttpServlet.java', 'lineNumber': 742, 'className': 'javax.servlet.http.HttpServlet', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 231, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 166, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'WsFilter.java', 'lineNumber': 52, 'className': 'org.apache.tomcat.websocket.server.WsFilter', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 193, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 166, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'CharacterEncodingFilter.java', 'lineNumber': 197, 'className': 'org.springframework.web.filter.CharacterEncodingFilter', 'methodName': 'doFilterInternal', 'nativeMethod': False}, {'fileName': 'OncePerRequestFilter.java', 'lineNumber': 107, 'className': 'org.springframework.web.filter.OncePerRequestFilter', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 193, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 166, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'StandardWrapperValve.java', 'lineNumber': 199, 'className': 'org.apache.catalina.core.StandardWrapperValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'StandardContextValve.java', 'lineNumber': 96, 'className': 'org.apache.catalina.core.StandardContextValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'AuthenticatorBase.java', 'lineNumber': 478, 'className': 'org.apache.catalina.authenticator.AuthenticatorBase', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'StandardHostValve.java', 'lineNumber': 140, 'className': 'org.apache.catalina.core.StandardHostValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'ErrorReportValve.java', 'lineNumber': 81, 'className': 'org.apache.catalina.valves.ErrorReportValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'StandardEngineValve.java', 'lineNumber': 87, 'className': 'org.apache.catalina.core.StandardEngineValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'CoyoteAdapter.java', 'lineNumber': 342, 'className': 'org.apache.catalina.connector.CoyoteAdapter', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'Http11Processor.java', 'lineNumber': 803, 'className': 'org.apache.coyote.http11.Http11Processor', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'AbstractProcessorLight.java', 'lineNumber': 66, 'className': 'org.apache.coyote.AbstractProcessorLight', 'methodName': 'process', 'nativeMethod': False}, {'fileName': 'AbstractProtocol.java', 'lineNumber': 868, 'className': 'org.apache.coyote.AbstractProtocol$ConnectionHandler', 'methodName': 'process', 'nativeMethod': False}, {'fileName': 'NioEndpoint.java', 'lineNumber': 1459, 'className': 'org.apache.tomcat.util.net.NioEndpoint$SocketProcessor', 'methodName': 'doRun', 'nativeMethod': False}, {'fileName': 'SocketProcessorBase.java', 'lineNumber': 49, 'className': 'org.apache.tomcat.util.net.SocketProcessorBase', 'methodName': 'run', 'nativeMethod': False}, {'fileName': 'ThreadPoolExecutor.java', 'lineNumber': 1149, 'className': 'java.util.concurrent.ThreadPoolExecutor', 'methodName': 'runWorker', 'nativeMethod': False}, {'fileName': 'ThreadPoolExecutor.java', 'lineNumber': 624, 'className': 'java.util.concurrent.ThreadPoolExecutor$Worker', 'methodName': 'run', 'nativeMethod': False}, {'fileName': 'TaskThread.java', 'lineNumber': 61, 'className': 'org.apache.tomcat.util.threads.TaskThread$WrappingRunnable', 'methodName': 'run', 'nativeMethod': False}, {'fileName': 'Thread.java', 'lineNumber': 748, 'className': 'java.lang.Thread', 'methodName': 'run', 'nativeMethod': False}], 'cause': None, 'suppressed': [], 'errorCode': 'PASSWORD_ERROR', 'localizedMessage': None, 'message': None}, 'data': None, 'msg': '密码错误'}
+2018-02-07 14:33:59,332 - root - DEBUG 登录测试用例执行失败：userName=admi,password=123，respond={'timespan': 'tAOE8q1eEQb982zlfCyFfQ==', 'code': 1002, 'exp': {'stackTrace': [{'fileName': 'ArcSystemUserServiceImpl.java', 'lineNumber': 47, 'className': 'com.ald.collection.biz.service.impl.ArcSystemUserServiceImpl', 'methodName': 'login', 'nativeMethod': False}, {'fileName': 'ArcSystemUserController.java', 'lineNumber': 60, 'className': 'com.ald.collection.api.controller.ArcSystemUserController', 'methodName': 'login', 'nativeMethod': False}, {'fileName': 'NativeMethodAccessorImpl.java', 'lineNumber': -2, 'className': 'sun.reflect.NativeMethodAccessorImpl', 'methodName': 'invoke0', 'nativeMethod': True}, {'fileName': 'NativeMethodAccessorImpl.java', 'lineNumber': 62, 'className': 'sun.reflect.NativeMethodAccessorImpl', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'DelegatingMethodAccessorImpl.java', 'lineNumber': 43, 'className': 'sun.reflect.DelegatingMethodAccessorImpl', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'Method.java', 'lineNumber': 498, 'className': 'java.lang.reflect.Method', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'InvocableHandlerMethod.java', 'lineNumber': 205, 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'methodName': 'doInvoke', 'nativeMethod': False}, {'fileName': 'InvocableHandlerMethod.java', 'lineNumber': 133, 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'methodName': 'invokeForRequest', 'nativeMethod': False}, {'fileName': 'ServletInvocableHandlerMethod.java', 'lineNumber': 97, 'className': 'org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod', 'methodName': 'invokeAndHandle', 'nativeMethod': False}, {'fileName': 'RequestMappingHandlerAdapter.java', 'lineNumber': 827, 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'methodName': 'invokeHandlerMethod', 'nativeMethod': False}, {'fileName': 'RequestMappingHandlerAdapter.java', 'lineNumber': 738, 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'methodName': 'handleInternal', 'nativeMethod': False}, {'fileName': 'AbstractHandlerMethodAdapter.java', 'lineNumber': 85, 'className': 'org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter', 'methodName': 'handle', 'nativeMethod': False}, {'fileName': 'DispatcherServlet.java', 'lineNumber': 967, 'className': 'org.springframework.web.servlet.DispatcherServlet', 'methodName': 'doDispatch', 'nativeMethod': False}, {'fileName': 'DispatcherServlet.java', 'lineNumber': 901, 'className': 'org.springframework.web.servlet.DispatcherServlet', 'methodName': 'doService', 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'lineNumber': 970, 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'processRequest', 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'lineNumber': 872, 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'doPost', 'nativeMethod': False}, {'fileName': 'HttpServlet.java', 'lineNumber': 661, 'className': 'javax.servlet.http.HttpServlet', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'lineNumber': 846, 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'HttpServlet.java', 'lineNumber': 742, 'className': 'javax.servlet.http.HttpServlet', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 231, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 166, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'WsFilter.java', 'lineNumber': 52, 'className': 'org.apache.tomcat.websocket.server.WsFilter', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 193, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 166, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'CharacterEncodingFilter.java', 'lineNumber': 197, 'className': 'org.springframework.web.filter.CharacterEncodingFilter', 'methodName': 'doFilterInternal', 'nativeMethod': False}, {'fileName': 'OncePerRequestFilter.java', 'lineNumber': 107, 'className': 'org.springframework.web.filter.OncePerRequestFilter', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 193, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 166, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'StandardWrapperValve.java', 'lineNumber': 199, 'className': 'org.apache.catalina.core.StandardWrapperValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'StandardContextValve.java', 'lineNumber': 96, 'className': 'org.apache.catalina.core.StandardContextValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'AuthenticatorBase.java', 'lineNumber': 478, 'className': 'org.apache.catalina.authenticator.AuthenticatorBase', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'StandardHostValve.java', 'lineNumber': 140, 'className': 'org.apache.catalina.core.StandardHostValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'ErrorReportValve.java', 'lineNumber': 81, 'className': 'org.apache.catalina.valves.ErrorReportValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'StandardEngineValve.java', 'lineNumber': 87, 'className': 'org.apache.catalina.core.StandardEngineValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'CoyoteAdapter.java', 'lineNumber': 342, 'className': 'org.apache.catalina.connector.CoyoteAdapter', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'Http11Processor.java', 'lineNumber': 803, 'className': 'org.apache.coyote.http11.Http11Processor', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'AbstractProcessorLight.java', 'lineNumber': 66, 'className': 'org.apache.coyote.AbstractProcessorLight', 'methodName': 'process', 'nativeMethod': False}, {'fileName': 'AbstractProtocol.java', 'lineNumber': 868, 'className': 'org.apache.coyote.AbstractProtocol$ConnectionHandler', 'methodName': 'process', 'nativeMethod': False}, {'fileName': 'NioEndpoint.java', 'lineNumber': 1459, 'className': 'org.apache.tomcat.util.net.NioEndpoint$SocketProcessor', 'methodName': 'doRun', 'nativeMethod': False}, {'fileName': 'SocketProcessorBase.java', 'lineNumber': 49, 'className': 'org.apache.tomcat.util.net.SocketProcessorBase', 'methodName': 'run', 'nativeMethod': False}, {'fileName': 'ThreadPoolExecutor.java', 'lineNumber': 1149, 'className': 'java.util.concurrent.ThreadPoolExecutor', 'methodName': 'runWorker', 'nativeMethod': False}, {'fileName': 'ThreadPoolExecutor.java', 'lineNumber': 624, 'className': 'java.util.concurrent.ThreadPoolExecutor$Worker', 'methodName': 'run', 'nativeMethod': False}, {'fileName': 'TaskThread.java', 'lineNumber': 61, 'className': 'org.apache.tomcat.util.threads.TaskThread$WrappingRunnable', 'methodName': 'run', 'nativeMethod': False}, {'fileName': 'Thread.java', 'lineNumber': 748, 'className': 'java.lang.Thread', 'methodName': 'run', 'nativeMethod': False}], 'cause': None, 'suppressed': [], 'errorCode': 'USER_NAME_ERROR', 'localizedMessage': None, 'message': None}, 'data': None, 'msg': '用户名错误'}
+2018-02-07 14:33:59,368 - root - DEBUG 登录测试用例执行失败：userName=,password=，respond={'timespan': 'pgi2W8xO5pYtEDLXhoyrNw==', 'code': 1002, 'exp': {'stackTrace': [{'fileName': 'ArcSystemUserServiceImpl.java', 'lineNumber': 47, 'className': 'com.ald.collection.biz.service.impl.ArcSystemUserServiceImpl', 'methodName': 'login', 'nativeMethod': False}, {'fileName': 'ArcSystemUserController.java', 'lineNumber': 60, 'className': 'com.ald.collection.api.controller.ArcSystemUserController', 'methodName': 'login', 'nativeMethod': False}, {'fileName': 'NativeMethodAccessorImpl.java', 'lineNumber': -2, 'className': 'sun.reflect.NativeMethodAccessorImpl', 'methodName': 'invoke0', 'nativeMethod': True}, {'fileName': 'NativeMethodAccessorImpl.java', 'lineNumber': 62, 'className': 'sun.reflect.NativeMethodAccessorImpl', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'DelegatingMethodAccessorImpl.java', 'lineNumber': 43, 'className': 'sun.reflect.DelegatingMethodAccessorImpl', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'Method.java', 'lineNumber': 498, 'className': 'java.lang.reflect.Method', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'InvocableHandlerMethod.java', 'lineNumber': 205, 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'methodName': 'doInvoke', 'nativeMethod': False}, {'fileName': 'InvocableHandlerMethod.java', 'lineNumber': 133, 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'methodName': 'invokeForRequest', 'nativeMethod': False}, {'fileName': 'ServletInvocableHandlerMethod.java', 'lineNumber': 97, 'className': 'org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod', 'methodName': 'invokeAndHandle', 'nativeMethod': False}, {'fileName': 'RequestMappingHandlerAdapter.java', 'lineNumber': 827, 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'methodName': 'invokeHandlerMethod', 'nativeMethod': False}, {'fileName': 'RequestMappingHandlerAdapter.java', 'lineNumber': 738, 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'methodName': 'handleInternal', 'nativeMethod': False}, {'fileName': 'AbstractHandlerMethodAdapter.java', 'lineNumber': 85, 'className': 'org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter', 'methodName': 'handle', 'nativeMethod': False}, {'fileName': 'DispatcherServlet.java', 'lineNumber': 967, 'className': 'org.springframework.web.servlet.DispatcherServlet', 'methodName': 'doDispatch', 'nativeMethod': False}, {'fileName': 'DispatcherServlet.java', 'lineNumber': 901, 'className': 'org.springframework.web.servlet.DispatcherServlet', 'methodName': 'doService', 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'lineNumber': 970, 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'processRequest', 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'lineNumber': 872, 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'doPost', 'nativeMethod': False}, {'fileName': 'HttpServlet.java', 'lineNumber': 661, 'className': 'javax.servlet.http.HttpServlet', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'lineNumber': 846, 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'HttpServlet.java', 'lineNumber': 742, 'className': 'javax.servlet.http.HttpServlet', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 231, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 166, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'WsFilter.java', 'lineNumber': 52, 'className': 'org.apache.tomcat.websocket.server.WsFilter', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 193, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 166, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'CharacterEncodingFilter.java', 'lineNumber': 197, 'className': 'org.springframework.web.filter.CharacterEncodingFilter', 'methodName': 'doFilterInternal', 'nativeMethod': False}, {'fileName': 'OncePerRequestFilter.java', 'lineNumber': 107, 'className': 'org.springframework.web.filter.OncePerRequestFilter', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 193, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'lineNumber': 166, 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'nativeMethod': False}, {'fileName': 'StandardWrapperValve.java', 'lineNumber': 199, 'className': 'org.apache.catalina.core.StandardWrapperValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'StandardContextValve.java', 'lineNumber': 96, 'className': 'org.apache.catalina.core.StandardContextValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'AuthenticatorBase.java', 'lineNumber': 478, 'className': 'org.apache.catalina.authenticator.AuthenticatorBase', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'StandardHostValve.java', 'lineNumber': 140, 'className': 'org.apache.catalina.core.StandardHostValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'ErrorReportValve.java', 'lineNumber': 81, 'className': 'org.apache.catalina.valves.ErrorReportValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'StandardEngineValve.java', 'lineNumber': 87, 'className': 'org.apache.catalina.core.StandardEngineValve', 'methodName': 'invoke', 'nativeMethod': False}, {'fileName': 'CoyoteAdapter.java', 'lineNumber': 342, 'className': 'org.apache.catalina.connector.CoyoteAdapter', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'Http11Processor.java', 'lineNumber': 803, 'className': 'org.apache.coyote.http11.Http11Processor', 'methodName': 'service', 'nativeMethod': False}, {'fileName': 'AbstractProcessorLight.java', 'lineNumber': 66, 'className': 'org.apache.coyote.AbstractProcessorLight', 'methodName': 'process', 'nativeMethod': False}, {'fileName': 'AbstractProtocol.java', 'lineNumber': 868, 'className': 'org.apache.coyote.AbstractProtocol$ConnectionHandler', 'methodName': 'process', 'nativeMethod': False}, {'fileName': 'NioEndpoint.java', 'lineNumber': 1459, 'className': 'org.apache.tomcat.util.net.NioEndpoint$SocketProcessor', 'methodName': 'doRun', 'nativeMethod': False}, {'fileName': 'SocketProcessorBase.java', 'lineNumber': 49, 'className': 'org.apache.tomcat.util.net.SocketProcessorBase', 'methodName': 'run', 'nativeMethod': False}, {'fileName': 'ThreadPoolExecutor.java', 'lineNumber': 1149, 'className': 'java.util.concurrent.ThreadPoolExecutor', 'methodName': 'runWorker', 'nativeMethod': False}, {'fileName': 'ThreadPoolExecutor.java', 'lineNumber': 624, 'className': 'java.util.concurrent.ThreadPoolExecutor$Worker', 'methodName': 'run', 'nativeMethod': False}, {'fileName': 'TaskThread.java', 'lineNumber': 61, 'className': 'org.apache.tomcat.util.threads.TaskThread$WrappingRunnable', 'methodName': 'run', 'nativeMethod': False}, {'fileName': 'Thread.java', 'lineNumber': 748, 'className': 'java.lang.Thread', 'methodName': 'run', 'nativeMethod': False}], 'cause': None, 'suppressed': [], 'errorCode': 'USER_NAME_ERROR', 'localizedMessage': None, 'message': None}, 'data': None, 'msg': '用户名错误'}
+                                                                                                                                                                                                                                                                                                                                                                                       2018-02-07 14:35:58,699 - root - DEBUG 登录测试用例执行失败：userName=admin,password=123456，respond={'msg': None, 'data': {'token': 'iQLCzaVkuoZ1/L/+r7zHX5pIc0wahoO2XL1PiWVa52awsTm9i1GbD3Lu7GUqgYrx', 'role': {'createTime': None, 'remark': 'sad', 'createId': None, 'status': 0, 'id': 1, 'roleType': 5, 'updateId': None, 'udpateTime': None, 'ruleName': 'test'}, 'user': {'token': 'iQLCzaVkuoZ1/L/+r7zHX5pIc0wahoO2XL1PiWVa52awsTm9i1GbD3Lu7GUqgYrx', 'isDelete': 0, 'updateTime': '2018-01-26 14:52:17', 'salt': '', 'status': 0, 'updateId': 1, 'employeeId': 0, 'password': '72dcf44eb4655e3341ee1937b4cecd5704046528', 'createTime': '2018-01-26 14:52:17', 'createId': 1, 'id': 1, 'userName': 'admin', 'companyType': 0}}, 'exp': None, 'timespan': 'AIukpgmltico3W2iZA15Zw==', 'code': 200}
+2018-02-07 14:35:58,790 - root - DEBUG 登录测试用例执行失败：userName=yxg,password=123456，respond={'msg': None, 'data': {'token': 'MgsoXAZfRsYxK6/40WDQNPWlX1w7FsOG2HdPXkhNKzCwsTm9i1GbD3Lu7GUqgYrx', 'role': {'createTime': None, 'remark': None, 'createId': None, 'status': 0, 'id': 9, 'roleType': 0, 'updateId': None, 'udpateTime': None, 'ruleName': 'yxg'}, 'user': {'token': 'MgsoXAZfRsYxK6/40WDQNPWlX1w7FsOG2HdPXkhNKzCwsTm9i1GbD3Lu7GUqgYrx', 'isDelete': 0, 'updateTime': '2018-02-07 11:01:15', 'salt': '', 'status': 0, 'updateId': 3, 'employeeId': 1, 'password': '72dcf44eb4655e3341ee1937b4cecd5704046528', 'createTime': '2018-01-31 15:44:43', 'createId': 3, 'id': 6, 'userName': 'yxg', 'companyType': 2}}, 'exp': None, 'timespan': '6D6zy0XlqS6Nj1aR+6fcGA==', 'code': 200}
+2018-02-07 14:35:58,862 - root - DEBUG 登录测试用例执行失败：userName=admin,password=123，respond={'msg': '密码错误', 'data': None, 'exp': {'localizedMessage': None, 'suppressed': [], 'errorCode': 'PASSWORD_ERROR', 'message': None, 'stackTrace': [{'nativeMethod': False, 'methodName': 'login', 'fileName': 'ArcSystemUserServiceImpl.java', 'className': 'com.ald.collection.biz.service.impl.ArcSystemUserServiceImpl', 'lineNumber': 54}, {'nativeMethod': False, 'methodName': 'login', 'fileName': 'ArcSystemUserController.java', 'className': 'com.ald.collection.api.controller.ArcSystemUserController', 'lineNumber': 60}, {'nativeMethod': True, 'methodName': 'invoke0', 'fileName': 'NativeMethodAccessorImpl.java', 'className': 'sun.reflect.NativeMethodAccessorImpl', 'lineNumber': -2}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'NativeMethodAccessorImpl.java', 'className': 'sun.reflect.NativeMethodAccessorImpl', 'lineNumber': 62}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'DelegatingMethodAccessorImpl.java', 'className': 'sun.reflect.DelegatingMethodAccessorImpl', 'lineNumber': 43}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'Method.java', 'className': 'java.lang.reflect.Method', 'lineNumber': 498}, {'nativeMethod': False, 'methodName': 'doInvoke', 'fileName': 'InvocableHandlerMethod.java', 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'lineNumber': 205}, {'nativeMethod': False, 'methodName': 'invokeForRequest', 'fileName': 'InvocableHandlerMethod.java', 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'lineNumber': 133}, {'nativeMethod': False, 'methodName': 'invokeAndHandle', 'fileName': 'ServletInvocableHandlerMethod.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod', 'lineNumber': 97}, {'nativeMethod': False, 'methodName': 'invokeHandlerMethod', 'fileName': 'RequestMappingHandlerAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'lineNumber': 827}, {'nativeMethod': False, 'methodName': 'handleInternal', 'fileName': 'RequestMappingHandlerAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'lineNumber': 738}, {'nativeMethod': False, 'methodName': 'handle', 'fileName': 'AbstractHandlerMethodAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter', 'lineNumber': 85}, {'nativeMethod': False, 'methodName': 'doDispatch', 'fileName': 'DispatcherServlet.java', 'className': 'org.springframework.web.servlet.DispatcherServlet', 'lineNumber': 967}, {'nativeMethod': False, 'methodName': 'doService', 'fileName': 'DispatcherServlet.java', 'className': 'org.springframework.web.servlet.DispatcherServlet', 'lineNumber': 901}, {'nativeMethod': False, 'methodName': 'processRequest', 'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'lineNumber': 970}, {'nativeMethod': False, 'methodName': 'doPost', 'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'lineNumber': 872}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'HttpServlet.java', 'className': 'javax.servlet.http.HttpServlet', 'lineNumber': 661}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'lineNumber': 846}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'HttpServlet.java', 'className': 'javax.servlet.http.HttpServlet', 'lineNumber': 742}, {'nativeMethod': False, 'methodName': 'internalDoFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 231}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 166}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'WsFilter.java', 'className': 'org.apache.tomcat.websocket.server.WsFilter', 'lineNumber': 52}, {'nativeMethod': False, 'methodName': 'internalDoFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 193}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 166}, {'nativeMethod': False, 'methodName': 'doFilterInternal', 'fileName': 'CharacterEncodingFilter.java', 'className': 'org.springframework.web.filter.CharacterEncodingFilter', 'lineNumber': 197}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'OncePerRequestFilter.java', 'className': 'org.springframework.web.filter.OncePerRequestFilter', 'lineNumber': 107}, {'nativeMethod': False, 'methodName': 'internalDoFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 193}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 166}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'StandardWrapperValve.java', 'className': 'org.apache.catalina.core.StandardWrapperValve', 'lineNumber': 199}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'StandardContextValve.java', 'className': 'org.apache.catalina.core.StandardContextValve', 'lineNumber': 96}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'AuthenticatorBase.java', 'className': 'org.apache.catalina.authenticator.AuthenticatorBase', 'lineNumber': 478}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'StandardHostValve.java', 'className': 'org.apache.catalina.core.StandardHostValve', 'lineNumber': 140}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'ErrorReportValve.java', 'className': 'org.apache.catalina.valves.ErrorReportValve', 'lineNumber': 81}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'StandardEngineValve.java', 'className': 'org.apache.catalina.core.StandardEngineValve', 'lineNumber': 87}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'CoyoteAdapter.java', 'className': 'org.apache.catalina.connector.CoyoteAdapter', 'lineNumber': 342}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'Http11Processor.java', 'className': 'org.apache.coyote.http11.Http11Processor', 'lineNumber': 803}, {'nativeMethod': False, 'methodName': 'process', 'fileName': 'AbstractProcessorLight.java', 'className': 'org.apache.coyote.AbstractProcessorLight', 'lineNumber': 66}, {'nativeMethod': False, 'methodName': 'process', 'fileName': 'AbstractProtocol.java', 'className': 'org.apache.coyote.AbstractProtocol$ConnectionHandler', 'lineNumber': 868}, {'nativeMethod': False, 'methodName': 'doRun', 'fileName': 'NioEndpoint.java', 'className': 'org.apache.tomcat.util.net.NioEndpoint$SocketProcessor', 'lineNumber': 1459}, {'nativeMethod': False, 'methodName': 'run', 'fileName': 'SocketProcessorBase.java', 'className': 'org.apache.tomcat.util.net.SocketProcessorBase', 'lineNumber': 49}, {'nativeMethod': False, 'methodName': 'runWorker', 'fileName': 'ThreadPoolExecutor.java', 'className': 'java.util.concurrent.ThreadPoolExecutor', 'lineNumber': 1149}, {'nativeMethod': False, 'methodName': 'run', 'fileName': 'ThreadPoolExecutor.java', 'className': 'java.util.concurrent.ThreadPoolExecutor$Worker', 'lineNumber': 624}, {'nativeMethod': False, 'methodName': 'run', 'fileName': 'TaskThread.java', 'className': 'org.apache.tomcat.util.threads.TaskThread$WrappingRunnable', 'lineNumber': 61}, {'nativeMethod': False, 'methodName': 'run', 'fileName': 'Thread.java', 'className': 'java.lang.Thread', 'lineNumber': 748}], 'cause': None}, 'timespan': '48b8Y9jFhZXLoCsvahQWJw==', 'code': 1003}
+2018-02-07 14:35:58,921 - root - DEBUG 登录测试用例执行失败：userName=admi,password=123，respond={'msg': '用户名错误', 'data': None, 'exp': {'localizedMessage': None, 'suppressed': [], 'errorCode': 'USER_NAME_ERROR', 'message': None, 'stackTrace': [{'nativeMethod': False, 'methodName': 'login', 'fileName': 'ArcSystemUserServiceImpl.java', 'className': 'com.ald.collection.biz.service.impl.ArcSystemUserServiceImpl', 'lineNumber': 47}, {'nativeMethod': False, 'methodName': 'login', 'fileName': 'ArcSystemUserController.java', 'className': 'com.ald.collection.api.controller.ArcSystemUserController', 'lineNumber': 60}, {'nativeMethod': True, 'methodName': 'invoke0', 'fileName': 'NativeMethodAccessorImpl.java', 'className': 'sun.reflect.NativeMethodAccessorImpl', 'lineNumber': -2}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'NativeMethodAccessorImpl.java', 'className': 'sun.reflect.NativeMethodAccessorImpl', 'lineNumber': 62}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'DelegatingMethodAccessorImpl.java', 'className': 'sun.reflect.DelegatingMethodAccessorImpl', 'lineNumber': 43}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'Method.java', 'className': 'java.lang.reflect.Method', 'lineNumber': 498}, {'nativeMethod': False, 'methodName': 'doInvoke', 'fileName': 'InvocableHandlerMethod.java', 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'lineNumber': 205}, {'nativeMethod': False, 'methodName': 'invokeForRequest', 'fileName': 'InvocableHandlerMethod.java', 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'lineNumber': 133}, {'nativeMethod': False, 'methodName': 'invokeAndHandle', 'fileName': 'ServletInvocableHandlerMethod.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod', 'lineNumber': 97}, {'nativeMethod': False, 'methodName': 'invokeHandlerMethod', 'fileName': 'RequestMappingHandlerAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'lineNumber': 827}, {'nativeMethod': False, 'methodName': 'handleInternal', 'fileName': 'RequestMappingHandlerAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'lineNumber': 738}, {'nativeMethod': False, 'methodName': 'handle', 'fileName': 'AbstractHandlerMethodAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter', 'lineNumber': 85}, {'nativeMethod': False, 'methodName': 'doDispatch', 'fileName': 'DispatcherServlet.java', 'className': 'org.springframework.web.servlet.DispatcherServlet', 'lineNumber': 967}, {'nativeMethod': False, 'methodName': 'doService', 'fileName': 'DispatcherServlet.java', 'className': 'org.springframework.web.servlet.DispatcherServlet', 'lineNumber': 901}, {'nativeMethod': False, 'methodName': 'processRequest', 'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'lineNumber': 970}, {'nativeMethod': False, 'methodName': 'doPost', 'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'lineNumber': 872}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'HttpServlet.java', 'className': 'javax.servlet.http.HttpServlet', 'lineNumber': 661}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'lineNumber': 846}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'HttpServlet.java', 'className': 'javax.servlet.http.HttpServlet', 'lineNumber': 742}, {'nativeMethod': False, 'methodName': 'internalDoFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 231}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 166}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'WsFilter.java', 'className': 'org.apache.tomcat.websocket.server.WsFilter', 'lineNumber': 52}, {'nativeMethod': False, 'methodName': 'internalDoFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 193}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 166}, {'nativeMethod': False, 'methodName': 'doFilterInternal', 'fileName': 'CharacterEncodingFilter.java', 'className': 'org.springframework.web.filter.CharacterEncodingFilter', 'lineNumber': 197}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'OncePerRequestFilter.java', 'className': 'org.springframework.web.filter.OncePerRequestFilter', 'lineNumber': 107}, {'nativeMethod': False, 'methodName': 'internalDoFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 193}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 166}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'StandardWrapperValve.java', 'className': 'org.apache.catalina.core.StandardWrapperValve', 'lineNumber': 199}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'StandardContextValve.java', 'className': 'org.apache.catalina.core.StandardContextValve', 'lineNumber': 96}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'AuthenticatorBase.java', 'className': 'org.apache.catalina.authenticator.AuthenticatorBase', 'lineNumber': 478}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'StandardHostValve.java', 'className': 'org.apache.catalina.core.StandardHostValve', 'lineNumber': 140}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'ErrorReportValve.java', 'className': 'org.apache.catalina.valves.ErrorReportValve', 'lineNumber': 81}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'StandardEngineValve.java', 'className': 'org.apache.catalina.core.StandardEngineValve', 'lineNumber': 87}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'CoyoteAdapter.java', 'className': 'org.apache.catalina.connector.CoyoteAdapter', 'lineNumber': 342}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'Http11Processor.java', 'className': 'org.apache.coyote.http11.Http11Processor', 'lineNumber': 803}, {'nativeMethod': False, 'methodName': 'process', 'fileName': 'AbstractProcessorLight.java', 'className': 'org.apache.coyote.AbstractProcessorLight', 'lineNumber': 66}, {'nativeMethod': False, 'methodName': 'process', 'fileName': 'AbstractProtocol.java', 'className': 'org.apache.coyote.AbstractProtocol$ConnectionHandler', 'lineNumber': 868}, {'nativeMethod': False, 'methodName': 'doRun', 'fileName': 'NioEndpoint.java', 'className': 'org.apache.tomcat.util.net.NioEndpoint$SocketProcessor', 'lineNumber': 1459}, {'nativeMethod': False, 'methodName': 'run', 'fileName': 'SocketProcessorBase.java', 'className': 'org.apache.tomcat.util.net.SocketProcessorBase', 'lineNumber': 49}, {'nativeMethod': False, 'methodName': 'runWorker', 'fileName': 'ThreadPoolExecutor.java', 'className': 'java.util.concurrent.ThreadPoolExecutor', 'lineNumber': 1149}, {'nativeMethod': False, 'methodName': 'run', 'fileName': 'ThreadPoolExecutor.java', 'className': 'java.util.concurrent.ThreadPoolExecutor$Worker', 'lineNumber': 624}, {'nativeMethod': False, 'methodName': 'run', 'fileName': 'TaskThread.java', 'className': 'org.apache.tomcat.util.threads.TaskThread$WrappingRunnable', 'lineNumber': 61}, {'nativeMethod': False, 'methodName': 'run', 'fileName': 'Thread.java', 'className': 'java.lang.Thread', 'lineNumber': 748}], 'cause': None}, 'timespan': 'SnEaeMMQlX74KWd3KdfVWA==', 'code': 1002}
+2018-02-07 14:35:58,963 - root - DEBUG 登录测试用例执行失败：userName=,password=，respond={'msg': '用户名错误', 'data': None, 'exp': {'localizedMessage': None, 'suppressed': [], 'errorCode': 'USER_NAME_ERROR', 'message': None, 'stackTrace': [{'nativeMethod': False, 'methodName': 'login', 'fileName': 'ArcSystemUserServiceImpl.java', 'className': 'com.ald.collection.biz.service.impl.ArcSystemUserServiceImpl', 'lineNumber': 47}, {'nativeMethod': False, 'methodName': 'login', 'fileName': 'ArcSystemUserController.java', 'className': 'com.ald.collection.api.controller.ArcSystemUserController', 'lineNumber': 60}, {'nativeMethod': True, 'methodName': 'invoke0', 'fileName': 'NativeMethodAccessorImpl.java', 'className': 'sun.reflect.NativeMethodAccessorImpl', 'lineNumber': -2}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'NativeMethodAccessorImpl.java', 'className': 'sun.reflect.NativeMethodAccessorImpl', 'lineNumber': 62}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'DelegatingMethodAccessorImpl.java', 'className': 'sun.reflect.DelegatingMethodAccessorImpl', 'lineNumber': 43}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'Method.java', 'className': 'java.lang.reflect.Method', 'lineNumber': 498}, {'nativeMethod': False, 'methodName': 'doInvoke', 'fileName': 'InvocableHandlerMethod.java', 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'lineNumber': 205}, {'nativeMethod': False, 'methodName': 'invokeForRequest', 'fileName': 'InvocableHandlerMethod.java', 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'lineNumber': 133}, {'nativeMethod': False, 'methodName': 'invokeAndHandle', 'fileName': 'ServletInvocableHandlerMethod.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod', 'lineNumber': 97}, {'nativeMethod': False, 'methodName': 'invokeHandlerMethod', 'fileName': 'RequestMappingHandlerAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'lineNumber': 827}, {'nativeMethod': False, 'methodName': 'handleInternal', 'fileName': 'RequestMappingHandlerAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'lineNumber': 738}, {'nativeMethod': False, 'methodName': 'handle', 'fileName': 'AbstractHandlerMethodAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter', 'lineNumber': 85}, {'nativeMethod': False, 'methodName': 'doDispatch', 'fileName': 'DispatcherServlet.java', 'className': 'org.springframework.web.servlet.DispatcherServlet', 'lineNumber': 967}, {'nativeMethod': False, 'methodName': 'doService', 'fileName': 'DispatcherServlet.java', 'className': 'org.springframework.web.servlet.DispatcherServlet', 'lineNumber': 901}, {'nativeMethod': False, 'methodName': 'processRequest', 'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'lineNumber': 970}, {'nativeMethod': False, 'methodName': 'doPost', 'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'lineNumber': 872}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'HttpServlet.java', 'className': 'javax.servlet.http.HttpServlet', 'lineNumber': 661}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'lineNumber': 846}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'HttpServlet.java', 'className': 'javax.servlet.http.HttpServlet', 'lineNumber': 742}, {'nativeMethod': False, 'methodName': 'internalDoFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 231}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 166}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'WsFilter.java', 'className': 'org.apache.tomcat.websocket.server.WsFilter', 'lineNumber': 52}, {'nativeMethod': False, 'methodName': 'internalDoFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 193}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 166}, {'nativeMethod': False, 'methodName': 'doFilterInternal', 'fileName': 'CharacterEncodingFilter.java', 'className': 'org.springframework.web.filter.CharacterEncodingFilter', 'lineNumber': 197}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'OncePerRequestFilter.java', 'className': 'org.springframework.web.filter.OncePerRequestFilter', 'lineNumber': 107}, {'nativeMethod': False, 'methodName': 'internalDoFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 193}, {'nativeMethod': False, 'methodName': 'doFilter', 'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'lineNumber': 166}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'StandardWrapperValve.java', 'className': 'org.apache.catalina.core.StandardWrapperValve', 'lineNumber': 199}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'StandardContextValve.java', 'className': 'org.apache.catalina.core.StandardContextValve', 'lineNumber': 96}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'AuthenticatorBase.java', 'className': 'org.apache.catalina.authenticator.AuthenticatorBase', 'lineNumber': 478}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'StandardHostValve.java', 'className': 'org.apache.catalina.core.StandardHostValve', 'lineNumber': 140}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'ErrorReportValve.java', 'className': 'org.apache.catalina.valves.ErrorReportValve', 'lineNumber': 81}, {'nativeMethod': False, 'methodName': 'invoke', 'fileName': 'StandardEngineValve.java', 'className': 'org.apache.catalina.core.StandardEngineValve', 'lineNumber': 87}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'CoyoteAdapter.java', 'className': 'org.apache.catalina.connector.CoyoteAdapter', 'lineNumber': 342}, {'nativeMethod': False, 'methodName': 'service', 'fileName': 'Http11Processor.java', 'className': 'org.apache.coyote.http11.Http11Processor', 'lineNumber': 803}, {'nativeMethod': False, 'methodName': 'process', 'fileName': 'AbstractProcessorLight.java', 'className': 'org.apache.coyote.AbstractProcessorLight', 'lineNumber': 66}, {'nativeMethod': False, 'methodName': 'process', 'fileName': 'AbstractProtocol.java', 'className': 'org.apache.coyote.AbstractProtocol$ConnectionHandler', 'lineNumber': 868}, {'nativeMethod': False, 'methodName': 'doRun', 'fileName': 'NioEndpoint.java', 'className': 'org.apache.tomcat.util.net.NioEndpoint$SocketProcessor', 'lineNumber': 1459}, {'nativeMethod': False, 'methodName': 'run', 'fileName': 'SocketProcessorBase.java', 'className': 'org.apache.tomcat.util.net.SocketProcessorBase', 'lineNumber': 49}, {'nativeMethod': False, 'methodName': 'runWorker', 'fileName': 'ThreadPoolExecutor.java', 'className': 'java.util.concurrent.ThreadPoolExecutor', 'lineNumber': 1149}, {'nativeMethod': False, 'methodName': 'run', 'fileName': 'ThreadPoolExecutor.java', 'className': 'java.util.concurrent.ThreadPoolExecutor$Worker', 'lineNumber': 624}, {'nativeMethod': False, 'methodName': 'run', 'fileName': 'TaskThread.java', 'className': 'org.apache.tomcat.util.threads.TaskThread$WrappingRunnable', 'lineNumber': 61}, {'nativeMethod': False, 'methodName': 'run', 'fileName': 'Thread.java', 'className': 'java.lang.Thread', 'lineNumber': 748}], 'cause': None}, 'timespan': '+yGjttzk4DeCcy7JJbIg8Q==', 'code': 1002}
+2018-02-07 14:37:00,034 - root - DEBUG 登录测试用例执行失败：userName=admin,password=123456，respond={'code': 200, 'msg': None, 'data': {'token': 'iQLCzaVkuoZ1/L/+r7zHXwcPPY6PonwfdKSP5sYMo/mwsTm9i1GbD3Lu7GUqgYrx', 'role': {'roleType': 5, 'remark': 'sad', 'id': 1, 'updateId': None, 'createId': None, 'createTime': None, 'ruleName': 'test', 'status': 0, 'udpateTime': None}, 'user': {'password': '72dcf44eb4655e3341ee1937b4cecd5704046528', 'id': 1, 'updateId': 1, 'userName': 'admin', 'status': 0, 'isDelete': 0, 'token': 'iQLCzaVkuoZ1/L/+r7zHXwcPPY6PonwfdKSP5sYMo/mwsTm9i1GbD3Lu7GUqgYrx', 'updateTime': '2018-01-26 14:52:17', 'salt': '', 'createId': 1, 'createTime': '2018-01-26 14:52:17', 'employeeId': 0, 'companyType': 0}}, 'timespan': 'f+lE+9QElDAhcTiG2vm7rA==', 'exp': None}
+2018-02-07 14:37:00,076 - root - DEBUG 登录测试用例执行失败：userName=yxg,password=123456，respond={'code': 200, 'msg': None, 'data': {'token': 'MgsoXAZfRsYxK6/40WDQNBZ1g8kqKScmSXThdYIi1RWwsTm9i1GbD3Lu7GUqgYrx', 'role': {'roleType': 0, 'remark': None, 'id': 9, 'updateId': None, 'createId': None, 'createTime': None, 'ruleName': 'yxg', 'status': 0, 'udpateTime': None}, 'user': {'password': '72dcf44eb4655e3341ee1937b4cecd5704046528', 'id': 6, 'updateId': 3, 'userName': 'yxg', 'status': 0, 'isDelete': 0, 'token': 'MgsoXAZfRsYxK6/40WDQNBZ1g8kqKScmSXThdYIi1RWwsTm9i1GbD3Lu7GUqgYrx', 'updateTime': '2018-02-07 11:01:15', 'salt': '', 'createId': 3, 'createTime': '2018-01-31 15:44:43', 'employeeId': 1, 'companyType': 2}}, 'timespan': 'VHRAnjjXlN/3v3VAn5fEQA==', 'exp': None}
+2018-02-07 14:37:00,159 - root - DEBUG 登录测试用例执行失败：userName=admin,password=123，respond={'code': 1003, 'msg': '密码错误', 'data': None, 'timespan': '0H8hHoIKPY4XbeFNFZgsYA==', 'exp': {'localizedMessage': None, 'cause': None, 'suppressed': [], 'message': None, 'errorCode': 'PASSWORD_ERROR', 'stackTrace': [{'fileName': 'ArcSystemUserServiceImpl.java', 'className': 'com.ald.collection.biz.service.impl.ArcSystemUserServiceImpl', 'methodName': 'login', 'lineNumber': 54, 'nativeMethod': False}, {'fileName': 'ArcSystemUserController.java', 'className': 'com.ald.collection.api.controller.ArcSystemUserController', 'methodName': 'login', 'lineNumber': 60, 'nativeMethod': False}, {'fileName': 'NativeMethodAccessorImpl.java', 'className': 'sun.reflect.NativeMethodAccessorImpl', 'methodName': 'invoke0', 'lineNumber': -2, 'nativeMethod': True}, {'fileName': 'NativeMethodAccessorImpl.java', 'className': 'sun.reflect.NativeMethodAccessorImpl', 'methodName': 'invoke', 'lineNumber': 62, 'nativeMethod': False}, {'fileName': 'DelegatingMethodAccessorImpl.java', 'className': 'sun.reflect.DelegatingMethodAccessorImpl', 'methodName': 'invoke', 'lineNumber': 43, 'nativeMethod': False}, {'fileName': 'Method.java', 'className': 'java.lang.reflect.Method', 'methodName': 'invoke', 'lineNumber': 498, 'nativeMethod': False}, {'fileName': 'InvocableHandlerMethod.java', 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'methodName': 'doInvoke', 'lineNumber': 205, 'nativeMethod': False}, {'fileName': 'InvocableHandlerMethod.java', 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'methodName': 'invokeForRequest', 'lineNumber': 133, 'nativeMethod': False}, {'fileName': 'ServletInvocableHandlerMethod.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod', 'methodName': 'invokeAndHandle', 'lineNumber': 97, 'nativeMethod': False}, {'fileName': 'RequestMappingHandlerAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'methodName': 'invokeHandlerMethod', 'lineNumber': 827, 'nativeMethod': False}, {'fileName': 'RequestMappingHandlerAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'methodName': 'handleInternal', 'lineNumber': 738, 'nativeMethod': False}, {'fileName': 'AbstractHandlerMethodAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter', 'methodName': 'handle', 'lineNumber': 85, 'nativeMethod': False}, {'fileName': 'DispatcherServlet.java', 'className': 'org.springframework.web.servlet.DispatcherServlet', 'methodName': 'doDispatch', 'lineNumber': 967, 'nativeMethod': False}, {'fileName': 'DispatcherServlet.java', 'className': 'org.springframework.web.servlet.DispatcherServlet', 'methodName': 'doService', 'lineNumber': 901, 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'processRequest', 'lineNumber': 970, 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'doPost', 'lineNumber': 872, 'nativeMethod': False}, {'fileName': 'HttpServlet.java', 'className': 'javax.servlet.http.HttpServlet', 'methodName': 'service', 'lineNumber': 661, 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'service', 'lineNumber': 846, 'nativeMethod': False}, {'fileName': 'HttpServlet.java', 'className': 'javax.servlet.http.HttpServlet', 'methodName': 'service', 'lineNumber': 742, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'lineNumber': 231, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'lineNumber': 166, 'nativeMethod': False}, {'fileName': 'WsFilter.java', 'className': 'org.apache.tomcat.websocket.server.WsFilter', 'methodName': 'doFilter', 'lineNumber': 52, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'lineNumber': 193, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'lineNumber': 166, 'nativeMethod': False}, {'fileName': 'CharacterEncodingFilter.java', 'className': 'org.springframework.web.filter.CharacterEncodingFilter', 'methodName': 'doFilterInternal', 'lineNumber': 197, 'nativeMethod': False}, {'fileName': 'OncePerRequestFilter.java', 'className': 'org.springframework.web.filter.OncePerRequestFilter', 'methodName': 'doFilter', 'lineNumber': 107, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'lineNumber': 193, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'lineNumber': 166, 'nativeMethod': False}, {'fileName': 'StandardWrapperValve.java', 'className': 'org.apache.catalina.core.StandardWrapperValve', 'methodName': 'invoke', 'lineNumber': 199, 'nativeMethod': False}, {'fileName': 'StandardContextValve.java', 'className': 'org.apache.catalina.core.StandardContextValve', 'methodName': 'invoke', 'lineNumber': 96, 'nativeMethod': False}, {'fileName': 'AuthenticatorBase.java', 'className': 'org.apache.catalina.authenticator.AuthenticatorBase', 'methodName': 'invoke', 'lineNumber': 478, 'nativeMethod': False}, {'fileName': 'StandardHostValve.java', 'className': 'org.apache.catalina.core.StandardHostValve', 'methodName': 'invoke', 'lineNumber': 140, 'nativeMethod': False}, {'fileName': 'ErrorReportValve.java', 'className': 'org.apache.catalina.valves.ErrorReportValve', 'methodName': 'invoke', 'lineNumber': 81, 'nativeMethod': False}, {'fileName': 'StandardEngineValve.java', 'className': 'org.apache.catalina.core.StandardEngineValve', 'methodName': 'invoke', 'lineNumber': 87, 'nativeMethod': False}, {'fileName': 'CoyoteAdapter.java', 'className': 'org.apache.catalina.connector.CoyoteAdapter', 'methodName': 'service', 'lineNumber': 342, 'nativeMethod': False}, {'fileName': 'Http11Processor.java', 'className': 'org.apache.coyote.http11.Http11Processor', 'methodName': 'service', 'lineNumber': 803, 'nativeMethod': False}, {'fileName': 'AbstractProcessorLight.java', 'className': 'org.apache.coyote.AbstractProcessorLight', 'methodName': 'process', 'lineNumber': 66, 'nativeMethod': False}, {'fileName': 'AbstractProtocol.java', 'className': 'org.apache.coyote.AbstractProtocol$ConnectionHandler', 'methodName': 'process', 'lineNumber': 868, 'nativeMethod': False}, {'fileName': 'NioEndpoint.java', 'className': 'org.apache.tomcat.util.net.NioEndpoint$SocketProcessor', 'methodName': 'doRun', 'lineNumber': 1459, 'nativeMethod': False}, {'fileName': 'SocketProcessorBase.java', 'className': 'org.apache.tomcat.util.net.SocketProcessorBase', 'methodName': 'run', 'lineNumber': 49, 'nativeMethod': False}, {'fileName': 'ThreadPoolExecutor.java', 'className': 'java.util.concurrent.ThreadPoolExecutor', 'methodName': 'runWorker', 'lineNumber': 1149, 'nativeMethod': False}, {'fileName': 'ThreadPoolExecutor.java', 'className': 'java.util.concurrent.ThreadPoolExecutor$Worker', 'methodName': 'run', 'lineNumber': 624, 'nativeMethod': False}, {'fileName': 'TaskThread.java', 'className': 'org.apache.tomcat.util.threads.TaskThread$WrappingRunnable', 'methodName': 'run', 'lineNumber': 61, 'nativeMethod': False}, {'fileName': 'Thread.java', 'className': 'java.lang.Thread', 'methodName': 'run', 'lineNumber': 748, 'nativeMethod': False}]}}
+2018-02-07 14:37:00,202 - root - DEBUG 登录测试用例执行失败：userName=admi,password=123，respond={'code': 1002, 'msg': '用户名错误', 'data': None, 'timespan': 'g5Z5yJiPn5bLkuPnaJMxUw==', 'exp': {'localizedMessage': None, 'cause': None, 'suppressed': [], 'message': None, 'errorCode': 'USER_NAME_ERROR', 'stackTrace': [{'fileName': 'ArcSystemUserServiceImpl.java', 'className': 'com.ald.collection.biz.service.impl.ArcSystemUserServiceImpl', 'methodName': 'login', 'lineNumber': 47, 'nativeMethod': False}, {'fileName': 'ArcSystemUserController.java', 'className': 'com.ald.collection.api.controller.ArcSystemUserController', 'methodName': 'login', 'lineNumber': 60, 'nativeMethod': False}, {'fileName': None, 'className': 'sun.reflect.GeneratedMethodAccessor415', 'methodName': 'invoke', 'lineNumber': -1, 'nativeMethod': False}, {'fileName': 'DelegatingMethodAccessorImpl.java', 'className': 'sun.reflect.DelegatingMethodAccessorImpl', 'methodName': 'invoke', 'lineNumber': 43, 'nativeMethod': False}, {'fileName': 'Method.java', 'className': 'java.lang.reflect.Method', 'methodName': 'invoke', 'lineNumber': 498, 'nativeMethod': False}, {'fileName': 'InvocableHandlerMethod.java', 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'methodName': 'doInvoke', 'lineNumber': 205, 'nativeMethod': False}, {'fileName': 'InvocableHandlerMethod.java', 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'methodName': 'invokeForRequest', 'lineNumber': 133, 'nativeMethod': False}, {'fileName': 'ServletInvocableHandlerMethod.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod', 'methodName': 'invokeAndHandle', 'lineNumber': 97, 'nativeMethod': False}, {'fileName': 'RequestMappingHandlerAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'methodName': 'invokeHandlerMethod', 'lineNumber': 827, 'nativeMethod': False}, {'fileName': 'RequestMappingHandlerAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'methodName': 'handleInternal', 'lineNumber': 738, 'nativeMethod': False}, {'fileName': 'AbstractHandlerMethodAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter', 'methodName': 'handle', 'lineNumber': 85, 'nativeMethod': False}, {'fileName': 'DispatcherServlet.java', 'className': 'org.springframework.web.servlet.DispatcherServlet', 'methodName': 'doDispatch', 'lineNumber': 967, 'nativeMethod': False}, {'fileName': 'DispatcherServlet.java', 'className': 'org.springframework.web.servlet.DispatcherServlet', 'methodName': 'doService', 'lineNumber': 901, 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'processRequest', 'lineNumber': 970, 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'doPost', 'lineNumber': 872, 'nativeMethod': False}, {'fileName': 'HttpServlet.java', 'className': 'javax.servlet.http.HttpServlet', 'methodName': 'service', 'lineNumber': 661, 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'service', 'lineNumber': 846, 'nativeMethod': False}, {'fileName': 'HttpServlet.java', 'className': 'javax.servlet.http.HttpServlet', 'methodName': 'service', 'lineNumber': 742, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'lineNumber': 231, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'lineNumber': 166, 'nativeMethod': False}, {'fileName': 'WsFilter.java', 'className': 'org.apache.tomcat.websocket.server.WsFilter', 'methodName': 'doFilter', 'lineNumber': 52, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'lineNumber': 193, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'lineNumber': 166, 'nativeMethod': False}, {'fileName': 'CharacterEncodingFilter.java', 'className': 'org.springframework.web.filter.CharacterEncodingFilter', 'methodName': 'doFilterInternal', 'lineNumber': 197, 'nativeMethod': False}, {'fileName': 'OncePerRequestFilter.java', 'className': 'org.springframework.web.filter.OncePerRequestFilter', 'methodName': 'doFilter', 'lineNumber': 107, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'lineNumber': 193, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'lineNumber': 166, 'nativeMethod': False}, {'fileName': 'StandardWrapperValve.java', 'className': 'org.apache.catalina.core.StandardWrapperValve', 'methodName': 'invoke', 'lineNumber': 199, 'nativeMethod': False}, {'fileName': 'StandardContextValve.java', 'className': 'org.apache.catalina.core.StandardContextValve', 'methodName': 'invoke', 'lineNumber': 96, 'nativeMethod': False}, {'fileName': 'AuthenticatorBase.java', 'className': 'org.apache.catalina.authenticator.AuthenticatorBase', 'methodName': 'invoke', 'lineNumber': 478, 'nativeMethod': False}, {'fileName': 'StandardHostValve.java', 'className': 'org.apache.catalina.core.StandardHostValve', 'methodName': 'invoke', 'lineNumber': 140, 'nativeMethod': False}, {'fileName': 'ErrorReportValve.java', 'className': 'org.apache.catalina.valves.ErrorReportValve', 'methodName': 'invoke', 'lineNumber': 81, 'nativeMethod': False}, {'fileName': 'StandardEngineValve.java', 'className': 'org.apache.catalina.core.StandardEngineValve', 'methodName': 'invoke', 'lineNumber': 87, 'nativeMethod': False}, {'fileName': 'CoyoteAdapter.java', 'className': 'org.apache.catalina.connector.CoyoteAdapter', 'methodName': 'service', 'lineNumber': 342, 'nativeMethod': False}, {'fileName': 'Http11Processor.java', 'className': 'org.apache.coyote.http11.Http11Processor', 'methodName': 'service', 'lineNumber': 803, 'nativeMethod': False}, {'fileName': 'AbstractProcessorLight.java', 'className': 'org.apache.coyote.AbstractProcessorLight', 'methodName': 'process', 'lineNumber': 66, 'nativeMethod': False}, {'fileName': 'AbstractProtocol.java', 'className': 'org.apache.coyote.AbstractProtocol$ConnectionHandler', 'methodName': 'process', 'lineNumber': 868, 'nativeMethod': False}, {'fileName': 'NioEndpoint.java', 'className': 'org.apache.tomcat.util.net.NioEndpoint$SocketProcessor', 'methodName': 'doRun', 'lineNumber': 1459, 'nativeMethod': False}, {'fileName': 'SocketProcessorBase.java', 'className': 'org.apache.tomcat.util.net.SocketProcessorBase', 'methodName': 'run', 'lineNumber': 49, 'nativeMethod': False}, {'fileName': 'ThreadPoolExecutor.java', 'className': 'java.util.concurrent.ThreadPoolExecutor', 'methodName': 'runWorker', 'lineNumber': 1149, 'nativeMethod': False}, {'fileName': 'ThreadPoolExecutor.java', 'className': 'java.util.concurrent.ThreadPoolExecutor$Worker', 'methodName': 'run', 'lineNumber': 624, 'nativeMethod': False}, {'fileName': 'TaskThread.java', 'className': 'org.apache.tomcat.util.threads.TaskThread$WrappingRunnable', 'methodName': 'run', 'lineNumber': 61, 'nativeMethod': False}, {'fileName': 'Thread.java', 'className': 'java.lang.Thread', 'methodName': 'run', 'lineNumber': 748, 'nativeMethod': False}]}}
+2018-02-07 14:37:00,236 - root - DEBUG 登录测试用例执行失败：userName=,password=，respond={'code': 1002, 'msg': '用户名错误', 'data': None, 'timespan': 'fE49aOJyqj+KQ+N3VVglHw==', 'exp': {'localizedMessage': None, 'cause': None, 'suppressed': [], 'message': None, 'errorCode': 'USER_NAME_ERROR', 'stackTrace': [{'fileName': 'ArcSystemUserServiceImpl.java', 'className': 'com.ald.collection.biz.service.impl.ArcSystemUserServiceImpl', 'methodName': 'login', 'lineNumber': 47, 'nativeMethod': False}, {'fileName': 'ArcSystemUserController.java', 'className': 'com.ald.collection.api.controller.ArcSystemUserController', 'methodName': 'login', 'lineNumber': 60, 'nativeMethod': False}, {'fileName': None, 'className': 'sun.reflect.GeneratedMethodAccessor415', 'methodName': 'invoke', 'lineNumber': -1, 'nativeMethod': False}, {'fileName': 'DelegatingMethodAccessorImpl.java', 'className': 'sun.reflect.DelegatingMethodAccessorImpl', 'methodName': 'invoke', 'lineNumber': 43, 'nativeMethod': False}, {'fileName': 'Method.java', 'className': 'java.lang.reflect.Method', 'methodName': 'invoke', 'lineNumber': 498, 'nativeMethod': False}, {'fileName': 'InvocableHandlerMethod.java', 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'methodName': 'doInvoke', 'lineNumber': 205, 'nativeMethod': False}, {'fileName': 'InvocableHandlerMethod.java', 'className': 'org.springframework.web.method.support.InvocableHandlerMethod', 'methodName': 'invokeForRequest', 'lineNumber': 133, 'nativeMethod': False}, {'fileName': 'ServletInvocableHandlerMethod.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod', 'methodName': 'invokeAndHandle', 'lineNumber': 97, 'nativeMethod': False}, {'fileName': 'RequestMappingHandlerAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'methodName': 'invokeHandlerMethod', 'lineNumber': 827, 'nativeMethod': False}, {'fileName': 'RequestMappingHandlerAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter', 'methodName': 'handleInternal', 'lineNumber': 738, 'nativeMethod': False}, {'fileName': 'AbstractHandlerMethodAdapter.java', 'className': 'org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter', 'methodName': 'handle', 'lineNumber': 85, 'nativeMethod': False}, {'fileName': 'DispatcherServlet.java', 'className': 'org.springframework.web.servlet.DispatcherServlet', 'methodName': 'doDispatch', 'lineNumber': 967, 'nativeMethod': False}, {'fileName': 'DispatcherServlet.java', 'className': 'org.springframework.web.servlet.DispatcherServlet', 'methodName': 'doService', 'lineNumber': 901, 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'processRequest', 'lineNumber': 970, 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'doPost', 'lineNumber': 872, 'nativeMethod': False}, {'fileName': 'HttpServlet.java', 'className': 'javax.servlet.http.HttpServlet', 'methodName': 'service', 'lineNumber': 661, 'nativeMethod': False}, {'fileName': 'FrameworkServlet.java', 'className': 'org.springframework.web.servlet.FrameworkServlet', 'methodName': 'service', 'lineNumber': 846, 'nativeMethod': False}, {'fileName': 'HttpServlet.java', 'className': 'javax.servlet.http.HttpServlet', 'methodName': 'service', 'lineNumber': 742, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'lineNumber': 231, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'lineNumber': 166, 'nativeMethod': False}, {'fileName': 'WsFilter.java', 'className': 'org.apache.tomcat.websocket.server.WsFilter', 'methodName': 'doFilter', 'lineNumber': 52, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'lineNumber': 193, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'lineNumber': 166, 'nativeMethod': False}, {'fileName': 'CharacterEncodingFilter.java', 'className': 'org.springframework.web.filter.CharacterEncodingFilter', 'methodName': 'doFilterInternal', 'lineNumber': 197, 'nativeMethod': False}, {'fileName': 'OncePerRequestFilter.java', 'className': 'org.springframework.web.filter.OncePerRequestFilter', 'methodName': 'doFilter', 'lineNumber': 107, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'internalDoFilter', 'lineNumber': 193, 'nativeMethod': False}, {'fileName': 'ApplicationFilterChain.java', 'className': 'org.apache.catalina.core.ApplicationFilterChain', 'methodName': 'doFilter', 'lineNumber': 166, 'nativeMethod': False}, {'fileName': 'StandardWrapperValve.java', 'className': 'org.apache.catalina.core.StandardWrapperValve', 'methodName': 'invoke', 'lineNumber': 199, 'nativeMethod': False}, {'fileName': 'StandardContextValve.java', 'className': 'org.apache.catalina.core.StandardContextValve', 'methodName': 'invoke', 'lineNumber': 96, 'nativeMethod': False}, {'fileName': 'AuthenticatorBase.java', 'className': 'org.apache.catalina.authenticator.AuthenticatorBase', 'methodName': 'invoke', 'lineNumber': 478, 'nativeMethod': False}, {'fileName': 'StandardHostValve.java', 'className': 'org.apache.catalina.core.StandardHostValve', 'methodName': 'invoke', 'lineNumber': 140, 'nativeMethod': False}, {'fileName': 'ErrorReportValve.java', 'className': 'org.apache.catalina.valves.ErrorReportValve', 'methodName': 'invoke', 'lineNumber': 81, 'nativeMethod': False}, {'fileName': 'StandardEngineValve.java', 'className': 'org.apache.catalina.core.StandardEngineValve', 'methodName': 'invoke', 'lineNumber': 87, 'nativeMethod': False}, {'fileName': 'CoyoteAdapter.java', 'className': 'org.apache.catalina.connector.CoyoteAdapter', 'methodName': 'service', 'lineNumber': 342, 'nativeMethod': False}, {'fileName': 'Http11Processor.java', 'className': 'org.apache.coyote.http11.Http11Processor', 'methodName': 'service', 'lineNumber': 803, 'nativeMethod': False}, {'fileName': 'AbstractProcessorLight.java', 'className': 'org.apache.coyote.AbstractProcessorLight', 'methodName': 'process', 'lineNumber': 66, 'nativeMethod': False}, {'fileName': 'AbstractProtocol.java', 'className': 'org.apache.coyote.AbstractProtocol$ConnectionHandler', 'methodName': 'process', 'lineNumber': 868, 'nativeMethod': False}, {'fileName': 'NioEndpoint.java', 'className': 'org.apache.tomcat.util.net.NioEndpoint$SocketProcessor', 'methodName': 'doRun', 'lineNumber': 1459, 'nativeMethod': False}, {'fileName': 'SocketProcessorBase.java', 'className': 'org.apache.tomcat.util.net.SocketProcessorBase', 'methodName': 'run', 'lineNumber': 49, 'nativeMethod': False}, {'fileName': 'ThreadPoolExecutor.java', 'className': 'java.util.concurrent.ThreadPoolExecutor', 'methodName': 'runWorker', 'lineNumber': 1149, 'nativeMethod': False}, {'fileName': 'ThreadPoolExecutor.java', 'className': 'java.util.concurrent.ThreadPoolExecutor$Worker', 'methodName': 'run', 'lineNumber': 624, 'nativeMethod': False}, {'fileName': 'TaskThread.java', 'className': 'org.apache.tomcat.util.threads.TaskThread$WrappingRunnable', 'methodName': 'run', 'lineNumber': 61, 'nativeMethod': False}, {'fileName': 'Thread.java', 'className': 'java.lang.Thread', 'methodName': 'run', 'lineNumber': 748, 'nativeMethod': False}]}}
+2018-02-07 14:39:20,615 - root - INFO 登录测试用例执行成功(userName=admin,password=123456，code=200)
+2018-02-07 14:39:20,729 - root - INFO 登录测试用例执行成功(userName=yxg,password=123456，code=200)
+2018-02-07 14:39:20,783 - root - INFO 登录测试用例执行成功(userName=admin,password=123，code=1003)
+2018-02-07 14:39:20,823 - root - INFO 登录测试用例执行成功(userName=admi,password=123，code=1002)
+2018-02-07 14:39:20,867 - root - INFO 登录测试用例执行成功(userName=,password=，code=1002)
+2018-02-07 14:45:27,053 - root - DEBUG userName(admin) user字段createTime：返回值2018-01-26 14:52:17 数据库值2018-01-26 14:52:17
+2018-02-07 14:45:27,053 - root - DEBUG userName(admin) user字段updateTime：返回值2018-01-26 14:52:17 数据库值2018-01-26 14:52:17
+2018-02-07 14:47:35,096 - root - DEBUG userName(admin) user字段createTime：返回值2018-01-26 14:52:17 数据库值2018-01-26 14:52:17
+2018-02-07 14:47:35,096 - root - DEBUG userName(admin) user字段updateTime：返回值2018-01-26 14:52:17 数据库值2018-01-26 14:52:17
+2018-02-07 14:47:35,159 - root - DEBUG userName(yxg) user字段createTime：返回值2018-01-31 15:44:43 数据库值2018-01-31 15:44:43
+2018-02-07 14:47:35,159 - root - DEBUG userName(yxg) user字段updateTime：返回值2018-02-07 11:01:15 数据库值2018-02-07 11:01:15
+2018-02-07 14:47:35,224 - root - INFO 登录测试用例执行成功(userName=admin,password=123，code=1003)
+2018-02-07 14:47:35,253 - root - INFO 登录测试用例执行成功(userName=admi,password=123，code=1002)
+2018-02-07 14:47:35,274 - root - INFO 登录测试用例执行成功(userName=,password=，code=1002)
+2018-02-07 14:51:41,281 - root - INFO userName(admin)登录数据获取正确
+2018-02-07 14:51:41,336 - root - INFO userName(yxg)登录数据获取正确
+2018-02-07 14:51:41,386 - root - INFO 登录测试用例执行成功(userName=admin,password=123，code=1003)
+2018-02-07 14:51:41,409 - root - INFO 登录测试用例执行成功(userName=admi,password=123，code=1002)
+2018-02-07 14:51:41,431 - root - INFO 登录测试用例执行成功(userName=,password=，code=1002)
